@@ -1,25 +1,25 @@
-name: Проверка доплерографии
+name: Проверка очередей
 
 on:
   schedule:
-    # Каждые 10 минут с 05:00 до 19:50 UTC.
-    # Летом в Латвии (UTC+3) это 08:00–22:50, ночь (23:00–08:00) не трогаем.
-    # Зимой (UTC+2) это 07:00–21:50 — при желании поменяйте "5-19" на "6-20".
-    # Примечание: GitHub может задерживать запуски на несколько минут.
-    - cron: "*/10 5-19 * * *"
-  workflow_dispatch: {}   # кнопка ручного запуска для проверки
+    # Запасное расписание раз в час: основной «будильник» — Cron Trigger
+    # в Cloudflare (точный, каждые 10 минут), он запускает workflow через
+    # GitHub API. Проверки идут круглосуточно; «тихие часы» каждый
+    # пользователь настраивает сам в боте (кнопка 🌙).
+    - cron: "5 * * * *"
+  workflow_dispatch: {}   # кнопка ручного запуска; её же «нажимает» Cloudflare
 
 permissions:
   contents: write
 
 concurrency:
-  group: doppler-check
+  group: qfinder-check
   cancel-in-progress: false
 
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -38,18 +38,18 @@ jobs:
           pip install playwright
           playwright install --with-deps chromium
 
-      - name: Проверка страницы
+      - name: Проверка отслеживаемых услуг
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          SERVICE_CODE: "180"
-        run: python check_doppler.py
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+          SYNC_SECRET: ${{ secrets.SYNC_SECRET }}
+        run: python bot_check.py
 
       - name: Сохранение состояния
         run: |
-          git config user.name "doppler-bot"
+          git config user.name "qfinder-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add state.json || true
+          git add state.json services.json 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "state: $(date -u +%F_%H:%M)" && git push)
 
       - name: Отладочные файлы
@@ -58,9 +58,6 @@ jobs:
         with:
           name: debug-${{ github.run_number }}
           path: |
-            page.png
-            page_text.txt
-            cards.json
-            xhr.json
+            page_*.png
           if-no-files-found: ignore
-          retention-days: 7
+          retention-days: 3
