@@ -365,8 +365,22 @@ async def scrape_catalog(browser):
             await page.close()
             print(f"[catalog] {lang}: {len(items)} записей")
             for it in items:
+                # число специалистов — в отдельное поле, из названия убираем
+                spec_m = re.search(
+                    r"(\d+)\s*(speciālist|специалист|specialist)", it["text"], re.I
+                )
+                name = re.sub(
+                    r"\s*\d+\s*(speciālist\w*|специалист\w*|specialist\w*)\s*",
+                    " ",
+                    it["text"],
+                    flags=re.IGNORECASE,
+                ).strip()
+                if not name:
+                    continue
                 entry = merged.setdefault(it["code"], {"code": it["code"]})
-                entry.setdefault(lang, it["text"])
+                entry.setdefault(lang, name)
+                if spec_m:
+                    entry.setdefault("spec", int(spec_m.group(1)))
         except Exception as e:
             print(f"[catalog] {lang}: ошибка {e}")
     services = [v for v in merged.values() if v.get("lv") or v.get("ru") or v.get("en")]
