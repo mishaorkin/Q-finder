@@ -22,6 +22,20 @@
     "394": {
       "insts": {},
       "notified": {}
+    },
+    "180": {
+      "insts": {
+        "Dole, VCA veselības klīnika": "17.08.2026",
+        "Veselības centru apvienība VCA (visas filiāles)": "17.08.2026"
+      },
+      "notified": {
+        "Dole, VCA veselības klīnika|17.08.2026": 1786638654.1726768,
+        "Veselības centru apvienība VCA (visas filiāles)|17.08.2026": 1786638654.1726768
+      }
+    },
+    "82": {
+      "insts": {},
+      "notified": {}
     }
   },
   "pending": {}
