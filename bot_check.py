@@ -54,9 +54,11 @@ def in_quiet(hour, quiet):
 
 from playwright.async_api import async_playwright
 
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-WORKER_URL = os.environ.get("WORKER_URL", "").rstrip("/")
-SYNC_SECRET = os.environ.get("SYNC_SECRET", "")
+# .strip() защищает от случайных пробелов/переносов строки,
+# прилипших при копировании значений в секреты
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+WORKER_URL = os.environ.get("WORKER_URL", "").strip().rstrip("/")
+SYNC_SECRET = os.environ.get("SYNC_SECRET", "").strip()
 
 BASE = "https://eveselibaspunkts.lv"
 STATE_FILE = Path("state.json")
