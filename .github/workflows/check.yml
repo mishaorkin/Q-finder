@@ -1,0 +1,66 @@
+name: Проверка доплерографии
+
+on:
+  schedule:
+    # Каждые 10 минут с 05:00 до 19:50 UTC.
+    # Летом в Латвии (UTC+3) это 08:00–22:50, ночь (23:00–08:00) не трогаем.
+    # Зимой (UTC+2) это 07:00–21:50 — при желании поменяйте "5-19" на "6-20".
+    # Примечание: GitHub может задерживать запуски на несколько минут.
+    - cron: "*/10 5-19 * * *"
+  workflow_dispatch: {}   # кнопка ручного запуска для проверки
+
+permissions:
+  contents: write
+
+concurrency:
+  group: doppler-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Кэш браузера
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: pw-chromium-${{ runner.os }}
+
+      - name: Установка Playwright
+        run: |
+          pip install playwright
+          playwright install --with-deps chromium
+
+      - name: Проверка страницы
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SERVICE_CODE: "180"
+        run: python check_doppler.py
+
+      - name: Сохранение состояния
+        run: |
+          git config user.name "doppler-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json || true
+          git diff --cached --quiet || (git commit -m "state: $(date -u +%F_%H:%M)" && git push)
+
+      - name: Отладочные файлы
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: debug-${{ github.run_number }}
+          path: |
+            page.png
+            page_text.txt
+            cards.json
+            xhr.json
+          if-no-files-found: ignore
+          retention-days: 7
