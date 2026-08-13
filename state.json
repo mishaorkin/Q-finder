@@ -4,6 +4,25 @@
     "Veselības centru apvienība VCA (visas filiāles) 14. aug. 17. aug."
   ],
   "consecutive_errors": 0,
-  "svc": {},
+  "svc": {
+    "279": {
+      "insts": {
+        "Balvu slimnīca": "28.09.2026",
+        "Gulbenes slimnīca": "28.09.2026"
+      },
+      "notified": {
+        "Balvu slimnīca|28.09.2026": 1786636268.3368008,
+        "Gulbenes slimnīca|28.09.2026": 1786636268.3368008
+      }
+    },
+    "393": {
+      "insts": {},
+      "notified": {}
+    },
+    "394": {
+      "insts": {},
+      "notified": {}
+    }
+  },
   "pending": {}
 }
