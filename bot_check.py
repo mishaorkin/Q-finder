@@ -435,6 +435,7 @@ async def run():
     svc_state = state.setdefault("svc", {})
     pending = state.setdefault("pending", {})
     hour = riga_hour()
+    notif_sent = [0]  # счётчик отправленных уведомлений для статистики
 
     # Утренняя доставка: отправляем то, что накопилось за тихие часы,
     # тем, у кого тихие часы уже закончились
@@ -452,6 +453,7 @@ async def run():
             continue
         for m in pending[chat_key][:30]:
             tg_send(chat, m["text"], stop_code=m.get("code"), lang=m.get("lang", "ru"))
+            notif_sent[0] += 1
         del pending[chat_key]
         print(f"[pending] доставлено накопленное для {chat}")
 
@@ -513,8 +515,19 @@ async def run():
                         print(f"[quiet] отложено для {w['chat']}")
                     else:
                         tg_send(w["chat"], text, stop_code=code, lang=lang)
+                        notif_sent[0] += 1
 
         await browser.close()
+
+    # сообщаем воркеру, сколько уведомлений отправлено (для страницы /stats)
+    if notif_sent[0]:
+        try:
+            http_json(
+                f"{WORKER_URL}/notified?key={urllib.parse.quote(SYNC_SECRET)}",
+                {"n": notif_sent[0]},
+            )
+        except Exception as e:
+            print(f"[stats] не удалось отправить счётчик: {e}")
 
     state["consecutive_errors"] = 0
     save_state(state)
