@@ -90,16 +90,34 @@ MSG = {
 
 def http_json(url, payload=None):
     """GET (payload=None) или POST JSON, ответ — распарсенный JSON."""
+    headers = {
+        # представляемся браузером: защита Cloudflare может резать
+        # «голые» запросы python-urllib кодом 403
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) qfinder-bot",
+        "Accept": "application/json",
+    }
     if payload is None:
-        req = urllib.request.Request(url)
+        req = urllib.request.Request(url, headers=headers)
     else:
+        headers["Content-Type"] = "application/json"
         req = urllib.request.Request(
-            url,
-            data=json.dumps(payload).encode(),
-            headers={"Content-Type": "application/json"},
+            url, data=json.dumps(payload).encode(), headers=headers
         )
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return json.loads(r.read().decode())
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r:
+            return json.loads(r.read().decode())
+    except urllib.error.HTTPError as e:
+        # печатаем, КТО ответил ошибкой (без секретов в логе):
+        # 'forbidden' = наш воркер не принял пароль,
+        # HTML-страница = сработала защита Cloudflare
+        body = b""
+        try:
+            body = e.read()[:300]
+        except Exception:
+            pass
+        path = url.split("?")[0]
+        print(f"[http] {e.code} от {path}; тело ответа: {body!r}")
+        raise
 
 
 def tg_send(chat_id, text, stop_code=None, lang="ru"):
