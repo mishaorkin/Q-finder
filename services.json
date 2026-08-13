@@ -1,0 +1,2672 @@
+[
+  {
+    "code": "385",
+    "lv": "13C elptests H.pylori noteikšanai 5 speciālisti",
+    "ru": "13C-дыхательный тест для определения H.pylori 5 специалисты",
+    "en": "13C breath test for H.pylori 5 specialists"
+  },
+  {
+    "code": "387",
+    "lv": "Ādas fotoatjaunošana ar lāzeru 1 speciālists",
+    "ru": "Фотоомоложение кожи лазером 1 специалист",
+    "en": "Laser skin photorejuvenation 1 specialist"
+  },
+  {
+    "code": "01",
+    "lv": "Aktuāli! Vakcinācija (potēšana) pret ērču encefalītu 24 speciālisti",
+    "ru": "Актуально! Вакцинация (прививка) от клещевого энцефалита 24 специалисты",
+    "en": "News! Vaccination (inoculation) against tick-borne encephalitis 24 specialists"
+  },
+  {
+    "code": "305",
+    "lv": "Aktuāli! Vakcinācija (potēšana) pret ērču encefalītu bērnam 11 speciālisti",
+    "ru": "Актуально! Вакцинация (прививка) от клещевого энцефалита для ребенка 11 специалисты",
+    "en": "News! Vaccination (inoculation) against tick-borne encephalitis for a child 11 specialists"
+  },
+  {
+    "code": "238",
+    "lv": "Akupunktūras speciālista konsultācija 1 speciālists",
+    "ru": "Консультация специалиста в области акупунктуры 1 специалист",
+    "en": "Consultation with an acupuncturist 1 specialist"
+  },
+  {
+    "code": "158",
+    "lv": "Alergologa konsultācija 8 speciālisti",
+    "ru": "Консультация аллерголога 8 специалисты",
+    "en": "Consultation with an andrologist 8 specialists"
+  },
+  {
+    "code": "281",
+    "lv": "Alergologa konsultācija bērnam 2 speciālisti",
+    "ru": "Консультация аллерголога для ребенка 2 специалисты",
+    "en": "Allergist consultation for a child 2 specialists"
+  },
+  {
+    "code": "145",
+    "lv": "Algologa (sāpju terapeita) konsultācijas 14 speciālisti",
+    "ru": "Консультации альголога (врача по болям) 14 специалисты",
+    "en": "Consultation by an algologist (pain therapist) 14 specialists"
+  },
+  {
+    "code": "172",
+    "lv": "Amplipulss 7 speciālisti",
+    "ru": "Амплипульс 7 специалисты",
+    "en": "Amplipulss 7 specialists"
+  },
+  {
+    "code": "148",
+    "lv": "Androloga konsultācija 1 speciālists",
+    "ru": "Консультация андролога 1 специалист",
+    "en": "Consultation with an andrologist 1 specialist"
+  },
+  {
+    "code": "154",
+    "lv": "Anesteziologa, reanimatologa konsultācija 46 speciālisti",
+    "ru": "Консультация анестезиолога, реаниматолога 46 специалисты",
+    "en": "Consultation of a anaesthesiologist, reanimatologist 46 specialists"
+  },
+  {
+    "code": "218",
+    "lv": "Angiogrāfija 3 speciālisti",
+    "ru": "Ангиография 3 специалисты",
+    "en": "Angiography 3 specialists"
+  },
+  {
+    "code": "443",
+    "lv": "Anorektālā manometrija (proktologa nozīmēts izmeklējums) 2 speciālisti",
+    "ru": "Аноректальная манометрия (исследование, назначенное проктологом) 2 специалисты",
+    "en": "Anorectal manometry (test prescribed by a proctologist) 2 specialists"
+  },
+  {
+    "code": "509",
+    "lv": "Anorektālā ultrasonogrāfija 1 speciālists",
+    "ru": "Аноректальное ультразвуковое исследование 1 специалист",
+    "en": "Anorectal ultrasonography 1 specialist"
+  },
+  {
+    "code": "465",
+    "lv": "Anticelulīta procedūra (pīlings, ietīšana, masāža) 1 speciālists",
+    "ru": "Антицеллюлитная процедура (пилинг, обёртывание, массаж) 1 специалист",
+    "en": "Anticelulīta procedūra (pīlings, ietīšana, masāža) 1 specialist"
+  },
+  {
+    "code": "393",
+    "lv": "Apakšējā endoskopija (kolonoskopija) 17 speciālisti",
+    "ru": "Нижняя эндоскопия (колоноскопия) 17 специалисты",
+    "en": "Lower endoscopy (colonoscopy) 17 specialists"
+  },
+  {
+    "code": "252",
+    "lv": "Apakšējās ekstremitātes (kājas) speciālista konsultācija 6 speciālisti",
+    "ru": "Консультация специалиста в области нижних конечностей (ног) 6 специалисты",
+    "en": "Consultation with a lower limb (leg) specialist 6 specialists"
+  },
+  {
+    "code": "114",
+    "lv": "Aparāta pedikīrs 2 speciālisti",
+    "ru": "Аппаратный педикюр 2 специалисты",
+    "en": "Aparāta pedikīrs 2 specialists"
+  },
+  {
+    "code": "112",
+    "lv": "Aparātkosmetoloģija 3 speciālisti",
+    "ru": "Аппаратная косметология 3 специалисты",
+    "en": "Apparatus cosmetology 3 specialists"
+  },
+  {
+    "code": "466",
+    "lv": "Aparātu vakummasāža 1 speciālists",
+    "ru": "Аппаратный вакуумный массаж 1 специалист",
+    "en": "Aparātu vakummasāža 1 specialist"
+  },
+  {
+    "code": "424",
+    "lv": "Aptaukošanās kabinets 2 speciālisti",
+    "ru": "Aptaukošanās kabinets 2 специалисты",
+    "en": "Aptaukošanās kabinets 2 specialists"
+  },
+  {
+    "code": "161",
+    "lv": "Aritmologa konsultācija 1 speciālists",
+    "ru": "Консультация аритмолога 1 специалист",
+    "en": "Consultation with an arrhythmologist 1 specialist"
+  },
+  {
+    "code": "19",
+    "lv": "Arodveselības un arodslimību ārsta konsultācija 14 speciālisti",
+    "ru": "Консультация врача в области профессионального здоровья и профессиональных заболеваний 14 специалисты",
+    "en": "Consultation with an occupational health and diseases doctor 14 specialists"
+  },
+  {
+    "code": "398",
+    "lv": "Ārsta asistenta (nesertificēta ārsta, rezidenta) konsultācija 9 speciālisti",
+    "ru": "Консультация ассистента врача (несертифицированного врача, резидента) 9 специалисты",
+    "en": "Consultation by a physician assistant (non-certified doctor, resident) 9 specialists"
+  },
+  {
+    "code": "160",
+    "lv": "Ārsta attālināta konsultācija par analīžu rezultātiem 5 speciālisti",
+    "ru": "Дистанционная консультация врача о результатах анализов 5 специалисты",
+    "en": "Doctor's remote consultation about test results 5 specialists"
+  },
+  {
+    "code": "491",
+    "lv": "Ārstnieciskā masāža 19 speciālisti",
+    "ru": "Лечебный массаж 19 специалисты",
+    "en": "Therapeutic massage 19 specialists"
+  },
+  {
+    "code": "48",
+    "lv": "Ārstnieciskā pēdu aprūpe (podologs) 58 speciālisti",
+    "ru": "Медицинский уход за ступнями (подолог) 58 специалисты",
+    "en": "Therapeutic foot care (podiatrist) 58 specialists"
+  },
+  {
+    "code": "304",
+    "lv": "Ārstnieciskā pēdu aprūpe (podologs) bērnam 18 speciālisti",
+    "ru": "Медицинский уход за ступнями (подолог) для ребенка 18 специалисты",
+    "en": "Therapeutic foot care (podiatrist) for a child 18 specialists"
+  },
+  {
+    "code": "341",
+    "lv": "Ārstnieciskā vingrošana grupā 7 speciālisti",
+    "ru": "Лечебная гимнастика в группе 7 специалисты",
+    "en": "Ārstnieciskā vingrošana grupā 7 specialists"
+  },
+  {
+    "code": "328",
+    "lv": "Ārstnieciskā vingrošana mugurai 3 speciālisti",
+    "ru": "Лечебная гимнастика для спины 3 специалисты",
+    "en": "Therapeutic exercise for the back 3 specialists"
+  },
+  {
+    "code": "36",
+    "lv": "Ārstnieciskās vingrošanas nodarbība 9 speciālisti",
+    "ru": "Занятие по лечебной гимнастике 9 специалисты",
+    "en": "Ārstnieciskās vingrošanas nodarbība 9 specialists"
+  },
+  {
+    "code": "253",
+    "lv": "Artroskopiskā ķirurģija 5 speciālisti",
+    "ru": "Артроскопическая хирургия 5 специалисты",
+    "en": "Arthroscopic surgery 5 specialists"
+  },
+  {
+    "code": "132",
+    "lv": "Asinsspiediena monitorēšana 24h 14 speciālisti",
+    "ru": "Мониторинг давления 24ч 14 специалисты",
+    "en": "Blood pressure monitoring 24h 14 specialists"
+  },
+  {
+    "code": "388",
+    "lv": "Asinsvadu ārstēšana ar lāzeru 1 speciālists",
+    "ru": "Лечение сосудов лазером 1 специалист",
+    "en": "Vascular treatment with laser 1 specialist"
+  },
+  {
+    "code": "168",
+    "lv": "Asinsvadu ķirurga konsultācija 18 speciālisti",
+    "ru": "Консультация сосудистого хирурга 18 специалисты",
+    "en": "Consultation with a vascular surgeon 18 specialists"
+  },
+  {
+    "code": "26",
+    "lv": "Asinsvadu patoloģijas diagnosta konsultācija 2 speciālisti",
+    "ru": "Консультация диагноста патологий кровеносных сосудов 2 специалисты",
+    "en": "Consultation with a vascular pathologist 2 specialists"
+  },
+  {
+    "code": "289",
+    "lv": "Atkārtota fizioterapeita konsultācija 1 mēneša laikā 7 speciālisti",
+    "ru": "Повторная консультация физотерапевта в течение 1 месяца 7 специалисты",
+    "en": "Repeat physiotherapy consultation within 1 month 7 specialists"
+  },
+  {
+    "code": "38",
+    "lv": "Atkārtota podologa konsultācija 2 speciālisti",
+    "ru": "Повторная консультация подолога 2 специалисты",
+    "en": "Repeated podiatrist consultation 2 specialists"
+  },
+  {
+    "code": "496",
+    "lv": "Atsevišku zonu masaža (pedas, apkakles, krustu dala) 5 speciālisti",
+    "ru": "Массаж отдельных зон (стопы, воротниковая зона, поясница) 5 специалисты",
+    "en": "Specific area massage (feet, neck, lower back) 5 specialists"
+  },
+  {
+    "code": "478",
+    "lv": "Audiologopēda individuāla nodarbība 8 speciālisti",
+    "ru": "Индивидуальное занятие аудиологопеда 8 специалисты",
+    "en": "Individual session with a speech-language pathologist (audiology) 8 specialists"
+  },
+  {
+    "code": "482",
+    "lv": "Audiologopēda individuāla nodarbība bērnam 7 speciālisti",
+    "ru": "Индивидуальное занятие аудиологопеда для ребёнка 7 специалисты",
+    "en": "Individual session with a speech-language pathologist (audiology) for a child 7 specialists"
+  },
+  {
+    "code": "59",
+    "lv": "Audiologopēda pirmreizēja konsultācija 13 speciālisti",
+    "ru": "Первичная консультация аудиологопеда 13 специалисты",
+    "en": "Initial consultation with a speech-language pathologist (audiology) 13 specialists"
+  },
+  {
+    "code": "121",
+    "lv": "Audiologopēda pirmreizēja konsultācija bērnam 9 speciālisti",
+    "ru": "Первичная консультация аудиологопеда для ребёнка 9 специалисты",
+    "en": "Initial consultation with a speech-language pathologist (audiology) for a child 9 specialists"
+  },
+  {
+    "code": "350",
+    "lv": "Audiometrijas pakalpojums 2 speciālisti",
+    "ru": "Услуга аудиометрии 2 специалисты",
+    "en": "Audiometry service 2 specialists"
+  },
+  {
+    "code": "394",
+    "lv": "Augšējā endoskopija (gastroskopija) 13 speciālisti",
+    "ru": "Верхняя эндоскопия (гастроскопия) 13 специалисты",
+    "en": "Upper endoscopy (gastroscopy) 13 specialists"
+  },
+  {
+    "code": "82",
+    "lv": "Augšējā endoskopija (gastroskopija) un apakšējā endoskopija (kolonoskopija) 4 speciālisti",
+    "ru": "Верхняя эндоскопия (гастроскопия) и нижняя эндоскопия (колоноскопия) 4 специалисты",
+    "en": "Augšējā endoskopija (gastroskopija) un apakšējā endoskopija (kolonoskopija) 4 specialists"
+  },
+  {
+    "code": "251",
+    "lv": "Augšējās ekstremitātes (rokas) speciālista konsultācija 4 speciālisti",
+    "ru": "Консультация специалиста в области верхних конечностей (рук) 4 специалисты",
+    "en": "Consultation with an upper limb (hand) specialist 4 specialists"
+  },
+  {
+    "code": "475",
+    "lv": "Augstas intensitātes lāzerprocedūra (HILT) 4 speciālisti",
+    "ru": "Высокоинтенсивная лазерная процедура (HILT) 4 специалисты",
+    "en": "Augstas intensitātes lāzerprocedūra (HILT) 4 specialists"
+  },
+  {
+    "code": "113",
+    "lv": "Ausu caurduršana 1 speciālists",
+    "ru": "Прокол ушей 1 специалист",
+    "en": "Ausu caurduršana 1 specialist"
+  },
+  {
+    "code": "165",
+    "lv": "Autisma spektra diagnostika ADOS-2 1 speciālists",
+    "ru": "Диагностика расстройств аутистического спектра ADOS-2 1 специалист",
+    "en": "Autism spectrum diagnosis ADOS-2 1 specialist"
+  },
+  {
+    "code": "115",
+    "lv": "Autovadītāju medicīniskā komisija 9 speciālisti",
+    "ru": "Медицинская комиссия для автоводителей 9 специалисты",
+    "en": "Medical commission for drivers 9 specialists"
+  },
+  {
+    "code": "98",
+    "lv": "Autovadītāju un ieroču nēsāšanas atļauju medicīniskā komisija 9 speciālisti",
+    "ru": "Медицинская комиссия для автоводителей и разрешения на ношение оружия 9 специалисты",
+    "en": "Medical commission for drivers and weapons carrying permits 9 specialists"
+  },
+  {
+    "code": "25",
+    "lv": "Bērnu ķirurga konsultācija 6 speciālisti",
+    "ru": "Консультация детского хирурга 6 специалисты",
+    "en": "Consultation with a paediatric surgeon 6 specialists"
+  },
+  {
+    "code": "353",
+    "lv": "Bērnu ķirurga ortopēda konsultācija 1 speciālists",
+    "ru": "Консультация детского хирурга-ортопеда 1 специалист",
+    "en": "Bērnu ķirurga ortopēda konsultācija 1 specialist"
+  },
+  {
+    "code": "439",
+    "lv": "Bērnu pneimonologa konsultācija 1 speciālists",
+    "ru": "Консультация детского пульманолога 1 специалист",
+    "en": "Consultation with a paediatric pneumonologist 1 specialist"
+  },
+  {
+    "code": "427",
+    "lv": "Bērnu proktologa konsultācija 1 speciālists",
+    "ru": "Консультация детского проктолога 1 специалист",
+    "en": "Children's proctologist consultation 1 specialist"
+  },
+  {
+    "code": "185",
+    "lv": "Bezmiega ārstēšana/KBT 1 speciālists",
+    "ru": "Лечение бессонницы/КПТ 1 специалист",
+    "en": "Insomnia Treatment/CBT 1 specialist"
+  },
+  {
+    "code": "223",
+    "lv": "Bioreparācija 1 speciālists",
+    "ru": "Биорепарация 1 специалист",
+    "en": "Bioreparācija 1 specialist"
+  },
+  {
+    "code": "134",
+    "lv": "Biorevitalizācija 3 speciālisti",
+    "ru": "Биоревитализация 3 специалисты",
+    "en": "Biorevitalizācija 3 specialists"
+  },
+  {
+    "code": "143",
+    "lv": "Blokādes 5 speciālisti",
+    "ru": "Блокады 5 специалисты",
+    "en": "Blockades 5 specialists"
+  },
+  {
+    "code": "523",
+    "lv": "Bobata terapija (vingrošana) zīdaiņiem 5 speciālisti",
+    "ru": "Бобат-терапия (упражнения) для младенцев 5 специалисты",
+    "en": "Bobath therapy (exercise) for infants 5 specialists"
+  },
+  {
+    "code": "455",
+    "lv": "Botulīna toksīna injekcijas 2 speciālisti",
+    "ru": "Инъекции ботулотоксина 2 специалисты",
+    "en": "Botulīna toksīna injekcijas 2 specialists"
+  },
+  {
+    "code": "326",
+    "lv": "Brīvā peldēšana 3 speciālisti",
+    "ru": "Свободное плавание 3 специалисты",
+    "en": "Brīvā peldēšana 3 specialists"
+  },
+  {
+    "code": "179",
+    "lv": "Check up kompleksā veselības pārbaude 4 speciālisti",
+    "ru": "Комплексная проверка здоровья Check up 4 специалисты",
+    "en": "Check up package health check 4 specialists"
+  },
+  {
+    "code": "470",
+    "lv": "Cirkulārā duša 2 speciālisti",
+    "ru": "Круговой душ 2 специалисты",
+    "en": "Cirkulārā duša 2 specialists"
+  },
+  {
+    "code": "355",
+    "lv": "! COVID-19 vakcinācija 5 speciālisti",
+    "ru": "! Вакцинация Covid-19 5 специалисты",
+    "en": "! COVID-19 vaccination 5 specialists"
+  },
+  {
+    "code": "399",
+    "lv": "! COVID-19 vakcinācija BĒRNIEM 5-11 g. 1 speciālists",
+    "ru": "! Вакцинация COVID-19 для ДЕТЕЙ 5-11 лет 1 специалист",
+    "en": "! COVID-19 vaccination for CHILDREN 5-11 y. 1 specialist"
+  },
+  {
+    "code": "406",
+    "lv": "Darsonvāls 1 speciālists",
+    "ru": "Дарсонваль 1 специалист",
+    "en": "Darsonvāls 1 specialist"
+  },
+  {
+    "code": "156",
+    "lv": "Datortomogrāfija 15 speciālisti",
+    "ru": "Компьютерная томография 15 специалисты",
+    "en": "Computed tomography 15 specialists"
+  },
+  {
+    "code": "274",
+    "lv": "Datortomogrāfija (CT) angiogrāfija galvas un kakla asinsvadiem ar kontrastvielu 9 speciālisti",
+    "ru": "Datortomogrāfija (CT) angiogrāfija galvas un kakla asinsvadiem ar kontrastvielu 9 специалисты",
+    "en": "Datortomogrāfija (CT) angiogrāfija galvas un kakla asinsvadiem ar kontrastvielu 9 specialists"
+  },
+  {
+    "code": "301",
+    "lv": "Datortomogrāfija (CT) angiogrāfija kāju asinsvadiem ar kontrastvielu 6 speciālisti",
+    "ru": "Datortomogrāfija (CT) angiogrāfija kāju asinsvadiem ar kontrastvielu 6 специалисты",
+    "en": "Datortomogrāfija (CT) angiogrāfija kāju asinsvadiem ar kontrastvielu 6 specialists"
+  },
+  {
+    "code": "303",
+    "lv": "Datortomogrāfija (CT) angiogrāfija vēdera aortai ar kontrastvielu 8 speciālisti",
+    "ru": "Datortomogrāfija (CT) angiogrāfija vēdera aortai ar kontrastvielu 8 специалисты",
+    "en": "Datortomogrāfija (CT) angiogrāfija vēdera aortai ar kontrastvielu 8 specialists"
+  },
+  {
+    "code": "363",
+    "lv": "Datortomogrāfija (CT) galvai 11 speciālisti",
+    "ru": "Компьютерная томография (КТ) головы 11 специалисты",
+    "en": "Computed tomography (CT) of the head 11 specialists"
+  },
+  {
+    "code": "364",
+    "lv": "Datortomogrāfija (CT) locītavām 6 speciālisti",
+    "ru": "Компьютерная томография (КТ) суставов 6 специалисты",
+    "en": "Computed tomography (CT) of the joints 6 specialists"
+  },
+  {
+    "code": "367",
+    "lv": "Datortomogrāfija (CT) mugurkaulam 11 speciālisti",
+    "ru": "Компьютерная томография (КТ) позвоночника 11 специалисты",
+    "en": "Computed tomography (CT) of the spine 11 specialists"
+  },
+  {
+    "code": "366",
+    "lv": "Datortomogrāfija (CT) plaušām 11 speciālisti",
+    "ru": "Компьютерная томография (КТ) легких 11 специалисты",
+    "en": "Computed tomography (CT) of the lungs 11 specialists"
+  },
+  {
+    "code": "369",
+    "lv": "Datortomogrāfija (CT) plaušām ar kontrastvielu 12 speciālisti",
+    "ru": "Компьютерная томография (КТ) легких с контрастным веществом 12 специалисты",
+    "en": "Computed tomography (CT) of the lungs with contrast medium 12 specialists"
+  },
+  {
+    "code": "225",
+    "lv": "Datortomogrāfija (CT) sirds asinsvadiem ar kontrastvielu (koronogrāfija) 4 speciālisti",
+    "ru": "Datortomogrāfija (CT) sirds asinsvadiem ar kontrastvielu (koronogrāfija) 4 специалисты",
+    "en": "Datortomogrāfija (CT) sirds asinsvadiem ar kontrastvielu (koronogrāfija) 4 specialists"
+  },
+  {
+    "code": "365",
+    "lv": "Datortomogrāfija (CT) vēderam 8 speciālisti",
+    "ru": "Компьютерная томография (КТ) живота 8 специалисты",
+    "en": "Computed tomography (CT) of the abdomen 8 specialists"
+  },
+  {
+    "code": "368",
+    "lv": "Datortomogrāfija (CT) vēderam ar kontrastvielu 11 speciālisti",
+    "ru": "Компьютерная томография (КТ) живота с контрастным веществом 11 специалисты",
+    "en": "Computed tomography (CT) of the abdomen with contrast medium 11 specialists"
+  },
+  {
+    "code": "277",
+    "lv": "Datortomogrāfija CT (vienai ķermeņa daļai) ar kontrastvielu 12 speciālisti",
+    "ru": "Компьютерная томография (КТ) одной части тела с контрастным веществом 12 специалисты",
+    "en": "Datortomogrāfija CT (vienai ķermeņa daļai) ar kontrastvielu 12 specialists"
+  },
+  {
+    "code": "120",
+    "lv": "Datortomogrāfija CT (vienai ķermeņa daļai) bez kontrastvielas 18 speciālisti",
+    "ru": "Компьютерная томография КТ (одной части тела) без контрастного вещества 18 специалисты",
+    "en": "CT scan (single body part) without contrast medium 18 specialists"
+  },
+  {
+    "code": "302",
+    "lv": "Dermatologa konsultācija ar ādas dermatoskopisko izmeklēšanu 15 speciālisti",
+    "ru": "Консультация дерматолога с дерматоскопическим исследованием кожи 15 специалисты",
+    "en": "Dermatologa konsultācija ar ādas dermatoskopisko izmeklēšanu 15 specialists"
+  },
+  {
+    "code": "407",
+    "lv": "Dermatologa konsultācija 12 speciālisti",
+    "ru": "Консультация дерматолога 12 специалисты",
+    "en": "Dermatologist consultation 12 specialists"
+  },
+  {
+    "code": "332",
+    "lv": "Dermatologa, venerologa atkārtota konsultācija 4 speciālisti",
+    "ru": "Повторная консультация дерматолога-венеролога 4 специалисты",
+    "en": "Dermatologa, venerologa atkārtota konsultācija 4 specialists"
+  },
+  {
+    "code": "193",
+    "lv": "Dermatologa, venerologa attālināta konsultācija vai izmeklējumu skaidrojums 2 speciālisti",
+    "ru": "Дистанционная консультация дерматолога, венеролога или разъяснение результатов обследования 2 специалисты",
+    "en": "Dermatologist, venereologist remote consultation or examination explanation 2 specialists"
+  },
+  {
+    "code": "534",
+    "lv": "Dermatologa, venerologa attālināta konsultācija vai izmeklējumu skaidrojums atkārtotam pacientam 2 speciālisti",
+    "ru": "Дистанционная консультация дерматолога, венеролога или разъяснение результатов обследования для повторного пациента 2 специалисты",
+    "en": "Dermatologist, venereologist remote consultation or examination explanation for a returning patient 2 specialists"
+  },
+  {
+    "code": "22",
+    "lv": "Dermatologa, venerologa konsultācija 61 speciālists",
+    "ru": "Консультация дерматолога, венеролога 61 специалист",
+    "en": "Consultation with a dermatologist, venereologist 61 specialist"
+  },
+  {
+    "code": "64",
+    "lv": "Dermatologa, venerologa konsultācija bērnam 38 speciālisti",
+    "ru": "Консультация дерматолога, венеролога для ребенка 38 специалисты",
+    "en": "Consultation with a dermatologist, venereologist for a child 38 specialists"
+  },
+  {
+    "code": "40",
+    "lv": "Dežūrārsta konsultācija 17 speciālisti",
+    "ru": "Консультация дежурного врача 17 специалисты",
+    "en": "Consultation with the attending doctor 17 specialists"
+  },
+  {
+    "code": "307",
+    "lv": "Dežūrārsta konsultācija bērnam 11 speciālisti",
+    "ru": "Консультация дежурного врача для ребенка 11 специалисты",
+    "en": "Consultation of a child by a doctor 11 specialists"
+  },
+  {
+    "code": "227",
+    "lv": "Diabēta apmācības māsas konsultācija 2 speciālisti",
+    "ru": "Консультация медсестры по обучению пациентов с диабетом 2 специалисты",
+    "en": "Diabēta apmācības māsas konsultācija 2 specialists"
+  },
+  {
+    "code": "321",
+    "lv": "Diadinamiskā strāva 1 speciālists",
+    "ru": "Диадинамический ток 1 специалист",
+    "en": "Diadinamiskā strāva 1 specialist"
+  },
+  {
+    "code": "61",
+    "lv": "Dietologa konsultācija 1 speciālists",
+    "ru": "Консультация диетолога 1 специалист",
+    "en": "Consultation with a dietician 1 specialist"
+  },
+  {
+    "code": "422",
+    "lv": "Dokumentu sagatavošana arodkomisijai un/vai nosūtīšanai uz VDEĀK 1 speciālists",
+    "ru": "Подготовка документов для профкомиссии и/или для отправки в VDEĀK 1 специалист",
+    "en": "Preparation of documents for the occupational commission and/or for sending to VDEĀK 1 specialist"
+  },
+  {
+    "code": "382",
+    "lv": "Doplerogrāfija (Duplex) galvas asinsvadiem 15 speciālisti",
+    "ru": "Допплерография (дуплексное сканирование) сосудов головы 15 специалисты",
+    "en": "Doplerogrāfija (Duplex) galvas asinsvadiem 15 specialists"
+  },
+  {
+    "code": "45",
+    "lv": "Doplerogrāfija (Duplex) galvas, kakla asinsvadiem 36 speciālisti",
+    "ru": "Допплерография (Duplex) сосудов головы, шеи 36 специалисты",
+    "en": "Doppler (Duplex) of head, neck vessels 36 specialists"
+  },
+  {
+    "code": "265",
+    "lv": "Doplerogrāfija (Duplex) galvas, kakla asinsvadiem bērnam 5 speciālisti",
+    "ru": "Допплерография (Duplex) сосудов головы, шеи для ребенка 5 специалисты",
+    "en": "Doppler (Duplex) of head, neck blood vessels in a child 5 specialists"
+  },
+  {
+    "code": "46",
+    "lv": "Doplerogrāfija (Duplex) kāju, roku vēnām, artērijām 7 speciālisti",
+    "ru": "Допплерография (Duplex) вен и артерий ног, рук 7 специалисты",
+    "en": "Doppler (Duplex) of veins, arteries of legs, arms 7 specialists"
+  },
+  {
+    "code": "284",
+    "lv": "Doplerogrāfija (Duplex) kāju vēnām 7 speciālisti",
+    "ru": "Доплерография (Duplex) вен ног 7 специалисты",
+    "en": "Doppler (Duplex) for leg veins 7 specialists"
+  },
+  {
+    "code": "180",
+    "lv": "Doplerogrāfija (Duplex) kāju vēnām, artērijām 13 speciālisti",
+    "ru": "Допплерография (Duplex) вен, артерий ног 13 специалисты",
+    "en": "Doppler (Duplex) of leg veins, arteries 13 specialists"
+  },
+  {
+    "code": "383",
+    "lv": "Doplerogrāfija (Duplex) kakla asinsvadiem 16 speciālisti",
+    "ru": "Допплерография (дуплексное сканирование) сосудов шеи 16 специалисты",
+    "en": "Doplerogrāfija (Duplex) kakla asinsvadiem 16 specialists"
+  },
+  {
+    "code": "181",
+    "lv": "Doplerogrāfija roku vēnām, artērijām 5 speciālisti",
+    "ru": "Допплерография вен, артерий рук 5 специалисты",
+    "en": "Dopplerography of arm veins, arteries 5 specialists"
+  },
+  {
+    "code": "217",
+    "lv": "Ehokardiogrāfija bērnam (obligāti norādot bērna vecumu piezīmēs) 9 speciālisti",
+    "ru": "Эхокардиография для ребенка (обязательно указать возраст ребенка в примечании) 9 специалисты",
+    "en": "Echocardiogram for a child (must specify child's age in the notes) 9 specialists"
+  },
+  {
+    "code": "30",
+    "lv": "Ehokardiogrāfija (EHO) 33 speciālisti",
+    "ru": "Эхокардиография (ЭХО) 33 специалисты",
+    "en": "Echocardiography (ECH) 33 specialists"
+  },
+  {
+    "code": "171",
+    "lv": "Elektoforēze 2 speciālisti",
+    "ru": "Электрофорез 2 специалисты",
+    "en": "Elektoforēze 2 specialists"
+  },
+  {
+    "code": "162",
+    "lv": "Elektroencefalogrāfija (EEG) 13 speciālisti",
+    "ru": "Электроэнцефалография (ЭЭГ) 13 специалисты",
+    "en": "Electroencephalography (EEG) 13 specialists"
+  },
+  {
+    "code": "268",
+    "lv": "Elektroencefalogrāfija (EEG) bērnam 6 speciālisti",
+    "ru": "Электроэнцефалография (ЭЭГ) для ребенка 6 специалисты",
+    "en": "Electroencephalography (EEG) in a child 6 specialists"
+  },
+  {
+    "code": "358",
+    "lv": "Elektroencefalogrāfija (EEG) miegā 2 speciālisti",
+    "ru": "Электроэнцефалография (ЭЭГ) во сне 2 специалисты",
+    "en": "Electroencephalography (EEG) during sleep 2 specialists"
+  },
+  {
+    "code": "320",
+    "lv": "Elektroforēze (Galvenizācija) 1 speciālists",
+    "ru": "Электрофорез (Гальванизация) 1 специалист",
+    "en": "Elektroforēze (Galvenizācija) 1 specialist"
+  },
+  {
+    "code": "31",
+    "lv": "Elektrokardiogrāfija (EKG) 38 speciālisti",
+    "ru": "Электрокардиография (ЭКГ 38 специалисты",
+    "en": "Electrocardiography (ECG) 38 specialists"
+  },
+  {
+    "code": "65",
+    "lv": "Elektrokardiogrāfija (EKG) bērnam 11 speciālisti",
+    "ru": "Электрокардиография (ЭКГ) для ребенка 11 специалисты",
+    "en": "Electrocardiography (ECG) for a child 11 specialists"
+  },
+  {
+    "code": "512",
+    "lv": "Elektrokardioversija (EKV) 1 speciālists",
+    "ru": "Электрическая кардиоверсия 1 специалист",
+    "en": "Electrical cardioversion (ECV) 1 specialist"
+  },
+  {
+    "code": "254",
+    "lv": "Elektromiogrāfija 5 speciālisti",
+    "ru": "Электромиография 5 специалисты",
+    "en": "Electromyography 5 specialists"
+  },
+  {
+    "code": "237",
+    "lv": "Elektroretinogrāfija (ERG) 1 speciālists",
+    "ru": "Электроретинография (ЭРГ) 1 специалист",
+    "en": "Electroretinography (ERG) 1 specialist"
+  },
+  {
+    "code": "295",
+    "lv": "Elektroterapija -TENS un FES fizioterapija 7 speciālisti",
+    "ru": "Электротерапия – физиотерапия с использованием TENS и FES 7 специалисты",
+    "en": "Elektroterapija -TENS un FES fizioterapija 7 specialists"
+  },
+  {
+    "code": "426",
+    "lv": "Endokrinologa atkārtotā konsultācija 3 speciālisti",
+    "ru": "Endokrinologa atkārtotā konsultācija 3 специалисты",
+    "en": "Endokrinologa atkārtotā konsultācija 3 specialists"
+  },
+  {
+    "code": "197",
+    "lv": "Endokrinologa attālināta konsultācija vai izmeklējumu skaidrojums 3 speciālisti",
+    "ru": "Дистанционная консультация эндокринолога или разъяснение результатов обследования 3 специалисты",
+    "en": "Endocrinologist remote consultation or examination explanation 3 specialists"
+  },
+  {
+    "code": "533",
+    "lv": "Endokrinologa attālināta konsultācija vai izmeklējumu skaidrojums atkārtotam pacientam 1 speciālists",
+    "ru": "Дистанционная консультация эндокринолога или разъяснение результатов обследования для повторного пациента 1 специалист",
+    "en": "Endocrinologist remote consultation or examination explanation for a returning patient 1 specialist"
+  },
+  {
+    "code": "09",
+    "lv": "Endokrinologa konsultācija 56 speciālisti",
+    "ru": "Консультация эндокринолога 56 специалисты",
+    "en": "Consultation with an endocrinologist 56 specialists"
+  },
+  {
+    "code": "264",
+    "lv": "Endokrinologa konsultācija bērnam 4 speciālisti",
+    "ru": "Консультация эндокринолога для ребенка 4 специалисты",
+    "en": "Endocrinologist consultation for a child 4 specialists"
+  },
+  {
+    "code": "430",
+    "lv": "Ergoterapeita individuāla nodarbība 15 speciālisti",
+    "ru": "Индивидуальное занятие эрготерапевта 15 специалисты",
+    "en": "Individual occupational therapy session 15 specialists"
+  },
+  {
+    "code": "431",
+    "lv": "Ergoterapeita individuāla nodarbība bērnam 9 speciālisti",
+    "ru": "Индивидуальное занятие эрготерапевта для ребёнка 9 специалисты",
+    "en": "Individual occupational therapy session for a child 9 specialists"
+  },
+  {
+    "code": "21",
+    "lv": "Ergoterapeita pirmreizēja konsultācija 18 speciālisti",
+    "ru": "Первичная консультация эрготерапевта 18 специалисты",
+    "en": "Initial occupational therapy consultation 18 specialists"
+  },
+  {
+    "code": "66",
+    "lv": "Ergoterapeita pirmreizēja konsultācija bērnam 10 speciālisti",
+    "ru": "Первичная консультация эрготерапевта для ребёнка 10 специалисты",
+    "en": "Initial occupational therapy consultation for a child 10 specialists"
+  },
+  {
+    "code": "464",
+    "lv": "EXILIS - ķermeņa skulpturēšana 1 speciālists",
+    "ru": "EXILIS – скульптурирование тела 1 специалист",
+    "en": "EXILIS - ķermeņa skulpturēšana 1 specialist"
+  },
+  {
+    "code": "263",
+    "lv": "Fibrogastroskopija 3 speciālisti",
+    "ru": "Фиброгастроскопия 3 специалисты",
+    "en": "Fibrogastroscopy 3 specialists"
+  },
+  {
+    "code": "07",
+    "lv": "Fizikālās un rehabilitācijas medicīnas ārsta konsultācija 22 speciālisti",
+    "ru": "Консультация врача в области физикальной медицины и реабилитации 22 специалисты",
+    "en": "Consultation with a doctor of physical and rehabilitation medicine 22 specialists"
+  },
+  {
+    "code": "92",
+    "lv": "Fizikālās un rehabilitācijas medicīnas ārsta konsultācija bērnam 18 speciālisti",
+    "ru": "Консультация врача в области физикальной медицины и реабилитации для ребенка 18 специалисты",
+    "en": "Consultation with a doctor of physical and rehabilitation medicine for a child 18 specialists"
+  },
+  {
+    "code": "192",
+    "lv": "Fizioterapeita attālināta konsultācija 2 speciālisti",
+    "ru": "Дистанционная консультация физиотерапевта 2 специалисты",
+    "en": "Physiotherapist remote consultation 2 specialists"
+  },
+  {
+    "code": "488",
+    "lv": "Fizioterapeita attālināta konsultācija atkārtotam pacientam 1 speciālists",
+    "ru": "Дистанционная консультация физиотерапевта для повторного пациента 1 специалист",
+    "en": "Physiotherapist remote consultation for a returning patient 1 specialist"
+  },
+  {
+    "code": "318",
+    "lv": "Fizioterapeita grupu nodarbība grūtniecēm 5 speciālisti",
+    "ru": "Груповые занятия с физиотерапевтом для беременных 5 специалисты",
+    "en": "Fizioterapeita grupu nodarbība grūtniecēm 5 specialists"
+  },
+  {
+    "code": "53",
+    "lv": "Fizioterapeita individuāla nodarbība 79 speciālisti",
+    "ru": "Индивидуальное занятие у физиотерапевта 79 специалисты",
+    "en": "Individual session with a physiotherapist 79 specialists"
+  },
+  {
+    "code": "231",
+    "lv": "Fizioterapeita individuāla nodarbība bērnam 54 speciālisti",
+    "ru": "Индивидуальное занятие у физиотерапевта для ребенка 54 специалисты",
+    "en": "Individual session with a physiotherapist for a child 54 specialists"
+  },
+  {
+    "code": "333",
+    "lv": "Fizioterapeita konsultācija 50 speciālisti",
+    "ru": "Консультация физиотерапевта 50 специалисты",
+    "en": "Fizioterapeita konsultācija 50 specialists"
+  },
+  {
+    "code": "52",
+    "lv": "Fizioterapeita pirmreizēja izmeklēšana, funkcionāla stāvokļa noteikšana, rehabilitācijas programmas sastādīšana (fizioterapeits) 51 speciālists",
+    "ru": "Первичное исследование физиотерапевта, определение функционального состояния, составление программы реабилитации (физиотерапевт) 51 специалист",
+    "en": "Physiotherapist's initial examination, determination of functional status, design of rehabilitation programme (physiotherapist) 51 specialist"
+  },
+  {
+    "code": "08",
+    "lv": "Fizioterapeita pirmreizēja konsultācija 76 speciālisti",
+    "ru": "Первичная консультация физиотерапевта 76 специалисты",
+    "en": "First consultation with a physiotherapist 76 specialists"
+  },
+  {
+    "code": "230",
+    "lv": "Fizioterapeita pirmreizēja konsultācija bērnam 52 speciālisti",
+    "ru": "Первичная консультация физиотерапевта для ребенка 52 специалисты",
+    "en": "First consultation with a physiotherapist for a child 52 specialists"
+  },
+  {
+    "code": "538",
+    "lv": "Fizioterapeits grūtniecēm, jaunajām māmiņām, zīdaiņiem un bērniem 1 speciālists",
+    "ru": "Физиотерапевт для беременных, молодых мам, младенцев и детей 1 специалист",
+    "en": "Physiotherapist for pregnant women, new mothers, infants and children 1 specialist"
+  },
+  {
+    "code": "37",
+    "lv": "Fiziskās slodzes tests ar elektrokardiogrāfu (veloergonometrija) 7 speciālisti",
+    "ru": "Тест при физической нагрузке с электрокардиографом (велоэргометрия) 7 специалисты",
+    "en": "Exercise stress test with electrocardiograph (cycloergonometry) 7 specialists"
+  },
+  {
+    "code": "50",
+    "lv": "Flebologa konsultācija 7 speciālisti",
+    "ru": "Консультация флеболога 7 специалисты",
+    "en": "Consultation with an phlebologist 7 specialists"
+  },
+  {
+    "code": "514",
+    "lv": "FotoFinder ādas veidojumu kartēšana 2 speciālisti",
+    "ru": "Картирование кожных образований FotoFinder 2 специалисты",
+    "en": "FotoFinder skin lesion mapping 2 specialists"
+  },
+  {
+    "code": "386",
+    "lv": "Frakcionēta ādas atjaunošana ar CO2 lāzeru 5 speciālisti",
+    "ru": "Фракционное омоложение кожи CO2-лазером 5 специалисты",
+    "en": "Fractional skin rejuvenation with CO2 laser 5 specialists"
+  },
+  {
+    "code": "68",
+    "lv": "Ftiziopneimonologa (pulmonologa) konsultācija 1 speciālists",
+    "ru": "Консультация фтизиопульманолога (пульманолога) 1 специалист",
+    "en": "Consultation with a phthisiopneumonologist (pulmonologist) 1 specialist"
+  },
+  {
+    "code": "195",
+    "lv": "Gastroenterologa attālināta konsultācija vai izmeklējumu skaidrojums 3 speciālisti",
+    "ru": "Дистанционная консультация гастроэнтеролога или разъяснение результатов обследования 3 специалисты",
+    "en": "Gastroenterologist remote consultation or examination explanation 3 specialists"
+  },
+  {
+    "code": "23",
+    "lv": "Gastroenterologa konsultācija 33 speciālisti",
+    "ru": "Консультация гастроэнтеролога 33 специалисты",
+    "en": "Consultation with a gastroenterologist 33 specialists"
+  },
+  {
+    "code": "257",
+    "lv": "Gastroenterologa konsultācija bērnam 1 speciālists",
+    "ru": "Консультация гастроэнтеролога для ребенка 1 специалист",
+    "en": "Gastroenterologist consultation for a child 1 specialist"
+  },
+  {
+    "code": "33",
+    "lv": "Gastroskopija (augšējā endoskopija) 4 speciālisti",
+    "ru": "Гастроскопия (верхняя эндоскопия) 4 специалисты",
+    "en": "Gastroscopy (upper endoscopy) 4 specialists"
+  },
+  {
+    "code": "44",
+    "lv": "Gastroskopija (augšējā endoskopija) 10 speciālisti",
+    "ru": "Гастроскопия (верхняя эндоскопия) 10 специалисты",
+    "en": "Gastroscopy (upper endoscopy) 10 specialists"
+  },
+  {
+    "code": "461",
+    "lv": "Gastroskopija (augšējā endoskopija) ar vispārējo anestēziju (narkozi) 14 speciālisti",
+    "ru": "Гастроскопия (верхняя эндоскопия) под общей анестезией (наркозом) 14 специалисты",
+    "en": "Gastroskopija (augšējā endoskopija) ar vispārējo anestēziju (narkozi) 14 specialists"
+  },
+  {
+    "code": "462",
+    "lv": "Gastroskopija (augšējā endoskopija) bez vispārējās anestēzijas (lokāli) 16 speciālisti",
+    "ru": "Гастроскопия (верхняя эндоскопия) без общей анестезии (местная) 16 специалисты",
+    "en": "Gastroskopija (augšējā endoskopija) bez vispārējās anestēzijas (lokāli) 16 specialists"
+  },
+  {
+    "code": "110",
+    "lv": "Ģenētiķa konsultācija 4 speciālisti",
+    "ru": "Консультация генетика 4 специалисты",
+    "en": "Consultation with an geneticist 4 specialists"
+  },
+  {
+    "code": "275",
+    "lv": "Ģenētiķa konsultācija bērnam 1 speciālists",
+    "ru": "Консультация генетика для ребенка 1 специалист",
+    "en": "Geneticist consultation for a child 1 specialist"
+  },
+  {
+    "code": "446",
+    "lv": "Geriatra konsultācija 3 speciālisti",
+    "ru": "Консультация гериатра 3 специалисты",
+    "en": "Geriatra konsultācija 3 specialists"
+  },
+  {
+    "code": "282",
+    "lv": "Ģimenes ārsta attālināta konsultācija vai izmeklējumu skaidrojums 2 speciālisti",
+    "ru": "Дистанционная консультация семейного врача или разъяснение результатов обследования 2 специалисты",
+    "en": "Family doctor remote consultation or examination explanation 2 specialists"
+  },
+  {
+    "code": "05",
+    "lv": "Ģimenes ārsta konsultācija 23 speciālisti",
+    "ru": "Консультация семейного врача 23 специалисты",
+    "en": "Consultation with a family doctor 23 specialists"
+  },
+  {
+    "code": "200",
+    "lv": "Ģimenes ārsta konsultācija (personai līdz 64 g. vecumam, ieskaitot) 91 speciālists",
+    "ru": "Консультация семейного врача (для лиц до 64 лет включительно) 91 специалист",
+    "en": "Ģimenes ārsta konsultācija (personai līdz 64 g. vecumam, ieskaitot) 91 specialist"
+  },
+  {
+    "code": "201",
+    "lv": "Ģimenes ārsta konsultācija (personai no 65 g. vecuma) 91 speciālists",
+    "ru": "Консультация семейного врача (для лиц с 65 лет) 91 специалист",
+    "en": "Ģimenes ārsta konsultācija (personai no 65 g. vecuma) 91 specialist"
+  },
+  {
+    "code": "194",
+    "lv": "Ginekologa, dzemdību speciālista attālināta konsultācija vai izmeklējumu skaidrojums 1 speciālists",
+    "ru": "Дистанционная консультация гинеколога, акушера или разъяснение результатов обследования 1 специалист",
+    "en": "Gynecologist, obstetrician remote consultation or examination explanation 1 specialist"
+  },
+  {
+    "code": "412",
+    "lv": "Ginekologa, dzemdību speciālista attālināta konsultācija vai izmeklējumu skaidrojums atkārtotam pacientam 7 speciālisti",
+    "ru": "Дистанционная консультация гинеколога, акушера или разъяснение результатов обследования для повторного пациента 7 специалисты",
+    "en": "Gynecologist, obstetrician remote consultation or examination explanation for a returning patient 7 specialists"
+  },
+  {
+    "code": "04",
+    "lv": "Ginekologa, dzemdību speciālista konsultācija 109 speciālisti",
+    "ru": "Консультация гинеколога, специалиста по родам 109 специалисты",
+    "en": "Consultation with a gynaecologist, obstetrician 109 specialists"
+  },
+  {
+    "code": "163",
+    "lv": "Ginekologa konsultācija 80 speciālisti",
+    "ru": "Консультация гинеколога 80 специалисты",
+    "en": "Consultation with a gynaecologist 80 specialists"
+  },
+  {
+    "code": "70",
+    "lv": "Ginekologa konsultācija bērnam 20 speciālisti",
+    "ru": "Консультация гинеколога для ребенка 20 специалисты",
+    "en": "Consultation with a gynaecologist for a child 20 specialists"
+  },
+  {
+    "code": "69",
+    "lv": "Ginekologa konsultācija, ietverot USG izmeklēšanu ginekoloģijā 44 speciālisti",
+    "ru": "Консультация гинеколога, включая УЗИ в области гинекологии 44 специалисты",
+    "en": "Gynaecological consultation including gynaecological ultrasound 44 specialists"
+  },
+  {
+    "code": "285",
+    "lv": "Ginekologa-reproduktologa, dzemdību speciālista konsultācija 12 speciālisti",
+    "ru": "Консультация гинеколога-репродуктолога, специалиста по родам 12 специалисты",
+    "en": "Consultation with a gynaecologist-reproductologist, obstetrician 12 specialists"
+  },
+  {
+    "code": "286",
+    "lv": "Ginekologa-reproduktologa konsultācija 10 speciālisti",
+    "ru": "Консультация гинеколога-репродуктолога 10 специалисты",
+    "en": "Consultation with a gynaecologist-reproductologist 10 specialists"
+  },
+  {
+    "code": "503",
+    "lv": "Glutationa intravenozā sistēma 1 speciālists",
+    "ru": "Глутатионовая внутривенная инфузия 1 специалист",
+    "en": "Glutathione intravenous infusion 1 specialist"
+  },
+  {
+    "code": "222",
+    "lv": "Grūtniecības novērošana un aprūpe 7 speciālisti",
+    "ru": "Наблюдение беременности и уход 7 специалисты",
+    "en": "Pregnancy monitoring and care 7 specialists"
+  },
+  {
+    "code": "473",
+    "lv": "Haloterapija jeb sāls istaba 5 speciālisti",
+    "ru": "Гало-терапия / соляная комната 5 специалисты",
+    "en": "Haloterapija jeb sāls istaba 5 specialists"
+  },
+  {
+    "code": "209",
+    "lv": "Hematologa konsultācija 4 speciālisti",
+    "ru": "Консультация Гематолога 4 специалисты",
+    "en": "Consultation with a haematologist 4 specialists"
+  },
+  {
+    "code": "524",
+    "lv": "Hendlinga nodarbība 5 speciālisti",
+    "ru": "Занятие по хендлингу 5 специалисты",
+    "en": "Handling session 5 specialists"
+  },
+  {
+    "code": "210",
+    "lv": "Hepatologa konsultācija 7 speciālisti",
+    "ru": "Консультация гепатолога 7 специалисты",
+    "en": "Hepatologist consultation 7 specialists"
+  },
+  {
+    "code": "47",
+    "lv": "Holtera monitorēšana 13 speciālisti",
+    "ru": "Холтер-мониторинг 13 специалисты",
+    "en": "Holter monitoring 13 specialists"
+  },
+  {
+    "code": "527",
+    "lv": "Holtera monitorēšana 120h 1 speciālists",
+    "ru": "Холтеровское мониторирование 120 часов 1 специалист",
+    "en": "Holter monitoring 120 hours 1 specialist"
+  },
+  {
+    "code": "415",
+    "lv": "Holtera monitorēšana 168h 1 speciālists",
+    "ru": "Холтеровское мониторирование 168 часов 1 специалист",
+    "en": "Holtera monitorēšana 168h 1 specialist"
+  },
+  {
+    "code": "408",
+    "lv": "Holtera monitorēšana 24h 21 speciālists",
+    "ru": "Холтеровское мониторирование 24 часа 21 специалист",
+    "en": "Holtera monitorēšana 24h 21 specialist"
+  },
+  {
+    "code": "410",
+    "lv": "Holtera monitorēšana 48h 11 speciālisti",
+    "ru": "Холтеровское мониторирование 48 часов 11 специалисты",
+    "en": "Holtera monitorēšana 48h 11 specialists"
+  },
+  {
+    "code": "411",
+    "lv": "Holtera monitorēšana 72h 3 speciālisti",
+    "ru": "Холтеровское мониторирование 72 часа 3 специалисты",
+    "en": "Holtera monitorēšana 72h 3 specialists"
+  },
+  {
+    "code": "413",
+    "lv": "Holtera monitorēšana 96h 1 speciālists",
+    "ru": "Холтеровское мониторирование 96 часов 1 специалист",
+    "en": "Holtera monitorēšana 96h 1 specialist"
+  },
+  {
+    "code": "67",
+    "lv": "Holtera monitorēšana bērnam 6 speciālisti",
+    "ru": "Холтер-мониторинг для ребенка 6 специалисты",
+    "en": "Holter monitoring for a child 6 specialists"
+  },
+  {
+    "code": "72",
+    "lv": "Homeopāta konsultācija 1 speciālists",
+    "ru": "Консультация гомеопата 1 специалист",
+    "en": "Homeopathic consultation 1 specialist"
+  },
+  {
+    "code": "55",
+    "lv": "Ieaugušu nagu korekcija 5 speciālisti",
+    "ru": "Коррекция вросшего ногтя 5 специалисты",
+    "en": "Ingrown nail correction 5 specialists"
+  },
+  {
+    "code": "182",
+    "lv": "Ieroču nēsāšanas atļaujas medicīniskā komisija 6 speciālisti",
+    "ru": "Медицинская комиссия для разрешения на ношение оружия 6 специалисты",
+    "en": "Ieroču nēsāšanas atļaujas medicīniskā komisija 6 specialists"
+  },
+  {
+    "code": "467",
+    "lv": "Ietīšana ar dūņām 2 speciālisti",
+    "ru": "Обёртывание с грязями 2 специалисты",
+    "en": "Ietīšana ar dūņām 2 specialists"
+  },
+  {
+    "code": "164",
+    "lv": "Imunologa konsultācija 7 speciālisti",
+    "ru": "Консультация иммунолога 7 специалисты",
+    "en": "Consultation with an immunologist 7 specialists"
+  },
+  {
+    "code": "130",
+    "lv": "Infektologa konsultācija 21 speciālists",
+    "ru": "Консультация инфектолога 21 специалист",
+    "en": "Consultation with a infectologist 21 specialist"
+  },
+  {
+    "code": "198",
+    "lv": "Internista attālināta konsultācija vai izmeklējumu skaidrojums 3 speciālisti",
+    "ru": "Дистанционная консультация терапевта или разъяснение результатов обследования 3 специалисты",
+    "en": "Internist remote consultation or examination explanation 3 specialists"
+  },
+  {
+    "code": "06",
+    "lv": "Internista konsultācija 27 speciālisti",
+    "ru": "Консультация терапевта (интерниста) 27 специалисты",
+    "en": "Consultation with an internist 27 specialists"
+  },
+  {
+    "code": "389",
+    "lv": "Invazīvā radiologa konsultācija 2 speciālisti",
+    "ru": "Консультация интервенционного радиолога 2 специалисты",
+    "en": "Invazīvā radiologa konsultācija 2 specialists"
+  },
+  {
+    "code": "362",
+    "lv": "Izmeklējums ar bioimpedances metodi 4 speciālisti",
+    "ru": "Исследование биоимпеданс 4 специалисты",
+    "en": "Bioimpedance test 4 specialists"
+  },
+  {
+    "code": "299",
+    "lv": "Jogas nodarbība 9 speciālisti",
+    "ru": "Занятие йогой 9 специалисты",
+    "en": "Yoga class 9 specialists"
+  },
+  {
+    "code": "416",
+    "lv": "Kapilaroskopija 1 speciālists",
+    "ru": "Капилляроскопия 1 специалист",
+    "en": "Kapilaroskopija 1 specialist"
+  },
+  {
+    "code": "438",
+    "lv": "Karboksiterapija - CO2 (medicīniskās) gāzes injekcijas 2 speciālisti",
+    "ru": "Карбокситерапия - инъекции газа СО2 (медицинского) 2 специалисты",
+    "en": "Carboxytherapy - CO2 (medical) gas injections 2 specialists"
+  },
+  {
+    "code": "273",
+    "lv": "Kardio check up kompleksā veselības pārbaude 1 speciālists",
+    "ru": "Комплексное кардиологическое обследование здоровья 1 специалист",
+    "en": "Cardio check up comprehensive health examination 1 specialist"
+  },
+  {
+    "code": "17",
+    "lv": "Kardiologa konsultācija 72 speciālisti",
+    "ru": "Консультация кардиолога 72 специалисты",
+    "en": "Consultation with a cardiologist 72 specialists"
+  },
+  {
+    "code": "283",
+    "lv": "Kardiologa konsultācija bērnam 6 speciālisti",
+    "ru": "Консультация кардиолога для ребенка 6 специалисты",
+    "en": "Cardiologist consultation for a child 6 specialists"
+  },
+  {
+    "code": "167",
+    "lv": "Kardiostimulatoru pārbaude 2 speciālisti",
+    "ru": "Проверка кардиостимуляторов 2 специалисты",
+    "en": "Checking pacemakers 2 specialists"
+  },
+  {
+    "code": "56",
+    "lv": "Kārpu apstrāde ar medikamentu 7 speciālisti",
+    "ru": "Лечение бородавок медикаментом 7 специалисты",
+    "en": "Wart treatment with medication 7 specialists"
+  },
+  {
+    "code": "135",
+    "lv": "Karsto akmeņu masāža 3 speciālisti",
+    "ru": "Массаж горячими камнями 3 специалисты",
+    "en": "Karsto akmeņu masāža 3 specialists"
+  },
+  {
+    "code": "250",
+    "lv": "Kaulu un locītavu infekciju speciālista konsultācija 4 speciālisti",
+    "ru": "Консультация специалиста в области инфекций костей и суставов 4 специалисты",
+    "en": "Consultation with a specialist in bone and joint infections 4 specialists"
+  },
+  {
+    "code": "248",
+    "lv": "Kaulu un mīksto audu onkoloģijas speciālista konsultācija 2 speciālisti",
+    "ru": "Консультация специалиста в области онкологии костей и мягких тканей 2 специалисты",
+    "en": "Consultation with a bone and soft tissue oncology specialist 2 specialists"
+  },
+  {
+    "code": "463",
+    "lv": "Ķermeņa pīlings 1 speciālists",
+    "ru": "Пилинг тела 1 специалист",
+    "en": "Ķermeņa pīlings 1 specialist"
+  },
+  {
+    "code": "451",
+    "lv": "Ķermeņa skulpturēšana ar Onda Plus Coolwawes sistēmu 3 speciālisti",
+    "ru": "Скульптурирование тела с использованием системы Onda Plus Coolwaves 3 специалисты",
+    "en": "Ķermeņa skulpturēšana ar Onda Plus Coolwawes sistēmu 3 specialists"
+  },
+  {
+    "code": "153",
+    "lv": "Ķermeņa zonu vaksācija 1 speciālists",
+    "ru": "Ваксинг (удаление волос воском) на теле 1 специалист",
+    "en": "Ķermeņa zonu vaksācija 1 specialist"
+  },
+  {
+    "code": "58",
+    "lv": "Ķīmiskais pīlings 2 speciālisti",
+    "ru": "Химический пилинг 2 специалисты",
+    "en": "Ķīmiskais pīlings 2 specialists"
+  },
+  {
+    "code": "298",
+    "lv": "Kinezioloģiskā teipošana 10 speciālisti",
+    "ru": "Кинезиологическое тейпирование 10 специалисты",
+    "en": "Kinesiological testing 10 specialists"
+  },
+  {
+    "code": "220",
+    "lv": "Kinezioloģiskā teipošana(grūtniecēm) 2 speciālisti",
+    "ru": "Кинезиотейпирование (для беременных) 2 специалисты",
+    "en": "Kinezioloģiskā teipošana(grūtniecēm) 2 specialists"
+  },
+  {
+    "code": "189",
+    "lv": "Ķirurga attālināta konsultācija vai izmeklējumu skaidrojums 2 speciālisti",
+    "ru": "Дистанционная консультация хирурга или разъяснение результатов обследования 2 специалисты",
+    "en": "Surgeon remote consultation or examination explanation 2 specialists"
+  },
+  {
+    "code": "11",
+    "lv": "Ķirurga konsultācija 130 speciālisti",
+    "ru": "Консультация хирурга 130 специалисты",
+    "en": "Consultation with a surgeon 130 specialists"
+  },
+  {
+    "code": "343",
+    "lv": "Ķirurga konsultācija (ādas un zemādas veidojumi) 16 speciālisti",
+    "ru": "Консультация хирурга (кожные и подкожные образования) 16 специалисты",
+    "en": "Consultation with a surgeon (skin and subcutaneous growths) 16 specialists"
+  },
+  {
+    "code": "259",
+    "lv": "Ķirurga konsultācija, endokrīnā ķirurģija 4 speciālisti",
+    "ru": "Консультация эндокринного хирурга 4 специалисты",
+    "en": "Consultation of a surgeon, endocrine surgery 4 specialists"
+  },
+  {
+    "code": "139",
+    "lv": "Ķirurga konsultācija pirms bariatriskās (kuņģa samazināšanas) operācijas 2 speciālisti",
+    "ru": "Консультация хирурга перед бариатрической операцией (по уменьшению размеров желудка) 2 специалисты",
+    "en": "Consultation with a surgeon before bariatric (gastric reduction) surgery 2 specialists"
+  },
+  {
+    "code": "344",
+    "lv": "Ķirurga konsultācija (strutainās ādas slimības) 2 speciālisti",
+    "ru": "Консультация хирурга (гнойные заболевания кожи) 2 специалисты",
+    "en": "Consultation with a surgeon (purulent skin diseases) 2 specialists"
+  },
+  {
+    "code": "342",
+    "lv": "Ķirurga konsultācija, vēdera dobuma ķirurģija 18 speciālisti",
+    "ru": "Консультация хирурга, хирургия брюшной полости 18 специалисты",
+    "en": "Consultation of a surgeon, abdominal surgery 18 specialists"
+  },
+  {
+    "code": "169",
+    "lv": "Ķirurga, mamologa konsultācija 11 speciālisti",
+    "ru": "Консультация хирурга, маммолога 11 специалисты",
+    "en": "Consultation of surgeon, mammologist 11 specialists"
+  },
+  {
+    "code": "91",
+    "lv": "Ķirurga onkologa konsultācija 3 speciālisti",
+    "ru": "Консультация хирурга-онколога 3 специалисты",
+    "en": "Consultation by a surgical oncologist 3 specialists"
+  },
+  {
+    "code": "345",
+    "lv": "Ķirurga proktologa konsultācija 21 speciālists",
+    "ru": "Консультация хирурга-проктолога 21 специалист",
+    "en": "Consultation with a proctologist 21 specialist"
+  },
+  {
+    "code": "346",
+    "lv": "Ķirurga proktologa konsultācija ar rektoskopiju 2 speciālisti",
+    "ru": "Консультация хирурга-проктолога с ректоскопией 2 специалисты",
+    "en": "Consultation with a proctologist and rectoscopy 2 specialists"
+  },
+  {
+    "code": "170",
+    "lv": "Ķirurga, sirds konsultācija 13 speciālisti",
+    "ru": "Консультация кардиохирурга 13 специалисты",
+    "en": "Hear surgeon consultation 13 specialists"
+  },
+  {
+    "code": "441",
+    "lv": "Klīniskā neiropsihologa konsultācija 1 speciālists",
+    "ru": "Консультация клинического нейропсихолога 1 специалист",
+    "en": "Clinical neuropsychologist consultation 1 specialist"
+  },
+  {
+    "code": "221",
+    "lv": "Kolonoskopija (apakšējā endoskopija) 19 speciālisti",
+    "ru": "Колоноскопия (верхняя эндоскопия) 19 специалисты",
+    "en": "Colonoscopy (lower endoscopy) 19 specialists"
+  },
+  {
+    "code": "375",
+    "lv": "Kolonoskopija, diagnostiska, ar biopsijām 1 speciālists",
+    "ru": "Колоноскопия, диагностика, с биопсиями 1 специалист",
+    "en": "Colonoscopy, diagnostic, with biopsies 1 specialist"
+  },
+  {
+    "code": "228",
+    "lv": "Kolposkopija 4 speciālisti",
+    "ru": "Кольпоскопия 4 специалисты",
+    "en": "Colposcopy 4 specialists"
+  },
+  {
+    "code": "539",
+    "lv": "Kombinētais izmeklējums, diagnostiskā krūšu izmeklēšana (MG+USG) 1 speciālists",
+    "ru": "Комплексное исследование, диагностическое исследование молочной железы (МГ+УЗИ) 1 специалист",
+    "en": "Combined examination, diagnostic breast examination (MG+USG) 1 specialist"
+  },
+  {
+    "code": "208",
+    "lv": "Konsultācija agrīnās aterosklerozes un dislipidēmijas kabinetā 1 speciālists",
+    "ru": "Консультация в кабинете ранней атеросклерозы и дислипидемии 1 специалист",
+    "en": "Konsultācija agrīnās aterosklerozes un dislipidēmijas kabinetā 1 specialist"
+  },
+  {
+    "code": "421",
+    "lv": "Kosmētiķa konsultācija – procedūra 6 speciālisti",
+    "ru": "Консультация косметолога - процедура 6 специалисты",
+    "en": "Cosmetologist consultation - procedure 6 specialists"
+  },
+  {
+    "code": "175",
+    "lv": "Krākšana/Miega apnojas ārstēšana 7 speciālisti",
+    "ru": "Лечение храпа/апноэ сна 7 специалисты",
+    "en": "Snoring/Sleep Apnea Treatment 7 specialists"
+  },
+  {
+    "code": "469",
+    "lv": "Kriodestrukcija - labdabīgu un ļaundabīgu ādas un zemādas veidojumu likvidācija 7 speciālisti",
+    "ru": "Криодеструкция – удаление доброкачественных и злокачественных кожных и подкожных образований 7 специалисты",
+    "en": "Kriodestrukcija - labdabīgu un ļaundabīgu ādas un zemādas veidojumu likvidācija 7 specialists"
+  },
+  {
+    "code": "279",
+    "lv": "Krūšu dziedzeru ultrasonogrāfija (USG) 9 speciālisti",
+    "ru": "Ультрасонография (УЗИ) молочных желез 9 специалисты",
+    "en": "Ultrasonography (USG) of the breast glands 9 specialists"
+  },
+  {
+    "code": "357",
+    "lv": "Kvantitatīvā sensorā testēšana (QST) 1 speciālists",
+    "ru": "Квантитативное сенсорное тестирование (QST) 1 специалист",
+    "en": "Quantitative Sensory Testing (QST) 1 specialist"
+  },
+  {
+    "code": "235",
+    "lv": "Labdabīgo ādas veidojumu noņemšana ar lāzeru 5 speciālisti",
+    "ru": "Удаление доброкачественных кожных образований лазером 5 специалисты",
+    "en": "Removal of benign skin lesions with laser 5 specialists"
+  },
+  {
+    "code": "468",
+    "lv": "Labdabīgu ādas veidojumu diatermokoagulācija 1 speciālists",
+    "ru": "Диатермокоагуляция доброкачественных кожных новообразований 1 специалист",
+    "en": "Labdabīgu ādas veidojumu diatermokoagulācija 1 specialist"
+  },
+  {
+    "code": "349",
+    "lv": "Laboratorijas pakalpojums 2 speciālisti",
+    "ru": "Лабораторная услуга 2 специалисты",
+    "en": "Laboratorijas pakalpojums 2 specialists"
+  },
+  {
+    "code": "390",
+    "lv": "Laktozes malabsorbcijas diagnostika ar ūdeņraža elptestu 3 speciālisti",
+    "ru": "Диагностика мальабсорбции лактозы водородным дыхательным тестом 3 специалисты",
+    "en": "Diagnosis of lactose malabsorption with hydrogen breath test 3 specialists"
+  },
+  {
+    "code": "425",
+    "lv": "Lāzerepilācija ar Aleksandrīta lāzeru 6 speciālisti",
+    "ru": "Лазерная эпиляция александритовым лазером 6 специалисты",
+    "en": "Laser hair removal with Alexandrite laser 6 specialists"
+  },
+  {
+    "code": "159",
+    "lv": "Lāzerprocedūra ar MonaLisa Touch 3 speciālisti",
+    "ru": "Лазерная процедура MonaLisa Touch 3 специалисты",
+    "en": "Laser procedure with MonaLisa Touch 3 specialists"
+  },
+  {
+    "code": "511",
+    "lv": "Lāzerterapija (1 lauks) 5 speciālisti",
+    "ru": "Лазерная терапия (1 поле) 5 специалисты",
+    "en": "Laser therapy (1 field) 5 specialists"
+  },
+  {
+    "code": "513",
+    "lv": "Lāzerterapija (2 lauki) 5 speciālisti",
+    "ru": "Лазерная терапия (2 поля) 5 специалисты",
+    "en": "Laser therapy (2 fields) 5 specialists"
+  },
+  {
+    "code": "249",
+    "lv": "Lielo locītavu (gūžas un ceļa)endoprotezēšanas speciālista konsultācija 16 speciālisti",
+    "ru": "Консультация специалиста в области эндопротезирования крупных суставов (тазобедренных и коленных) 16 специалисты",
+    "en": "Consultation with a specialist in total joint replacement (hip and knee) 16 specialists"
+  },
+  {
+    "code": "292",
+    "lv": "Limfodrenāža 7 speciālisti",
+    "ru": "Лимфодренаж 7 специалисты",
+    "en": "Lymphatic drainage 7 specialists"
+  },
+  {
+    "code": "449",
+    "lv": "Limfodrenāžas zābaki 11 speciālisti",
+    "ru": "Лимфодренажные сапоги 11 специалисты",
+    "en": "Limfodrenāžas zābaki 11 specialists"
+  },
+  {
+    "code": "474",
+    "lv": "Logopēda individuāla nodarbība 2 speciālisti",
+    "ru": "Индивидуальное занятие логопеда 2 специалисты",
+    "en": "Individual speech therapy session 2 specialists"
+  },
+  {
+    "code": "477",
+    "lv": "Logopēda individuāla nodarbība bērnam 5 speciālisti",
+    "ru": "Индивидуальное занятие логопеда для ребёнка 5 специалисты",
+    "en": "Individual speech therapy session for a child 5 specialists"
+  },
+  {
+    "code": "74",
+    "lv": "Logopēda pirmreizēja konsultācija 3 speciālisti",
+    "ru": "Первичная консультация логопеда 3 специалисты",
+    "en": "Initial speech therapist consultation 3 specialists"
+  },
+  {
+    "code": "75",
+    "lv": "Logopēda pirmreizēja konsultācija bērnam 5 speciālisti",
+    "ru": "Первичная консультация логопеда для ребёнка 5 специалисты",
+    "en": "Initial speech therapist consultation for a child 5 specialists"
+  },
+  {
+    "code": "401",
+    "lv": "Magnētiskā rezonanse MR (vēdera dobuma vai mazā iegurņa orgāniem) ar kontrastvielu 5 speciālisti",
+    "ru": "Магнитно-резонансная томография (МРТ) органов брюшной полости или малого таза с контрастным веществом 5 специалисты",
+    "en": "Magnētiskā rezonanse MR (vēdera dobuma vai mazā iegurņa orgāniem) ar kontrastvielu 5 specialists"
+  },
+  {
+    "code": "322",
+    "lv": "Magnētiskā rezonanse MR (vēdera dobuma vai mazā iegurņa orgāniem) bez kontrastvielas 4 speciālisti",
+    "ru": "Магнитно-резонансная томография (МРТ) органов брюшной полости или малого таза без контрастного вещества 4 специалисты",
+    "en": "Magnētiskā rezonanse MR (vēdera dobuma vai mazā iegurņa orgāniem) bez kontrastvielas 4 specialists"
+  },
+  {
+    "code": "519",
+    "lv": "Magnētiskā rezonanse MR (vēdera dobumam) ar kontrastvielu 1 speciālists",
+    "ru": "Магнитно-резонансная томография (МРТ) брюшной полости с контрастом 1 специалист",
+    "en": "Magnetic resonance imaging (MRI) of abdominal cavity with contrast 1 specialist"
+  },
+  {
+    "code": "360",
+    "lv": "Magnētiskā rezonanse MR (vienai ķermeņa daļai) ar kontrastvielu 11 speciālisti",
+    "ru": "Магнитный резонанс МРТ (одной части тела) с контрастным веществом 11 специалисты",
+    "en": "Magnetic resonance MRI (single body part) with contrast medium 11 specialists"
+  },
+  {
+    "code": "123",
+    "lv": "Magnētiskā rezonanse MR (vienai ķermeņa daļai) bez kontrastvielas 35 speciālisti",
+    "ru": "Магнитный резонанс МРТ (одной части тела) без контрастного вещества 35 специалисты",
+    "en": "Magnetic resonance MRI (single body part) without contrast medium 35 specialists"
+  },
+  {
+    "code": "296",
+    "lv": "Magnētterapija 10 speciālisti",
+    "ru": "Магнитотерапия 10 специалисты",
+    "en": "Magnetotherapy 10 specialists"
+  },
+  {
+    "code": "452",
+    "lv": "Mākslas terapeita individuālā sesija 2 speciālisti",
+    "ru": "Индивидуальная сессия арт-терапевта 2 специалисты",
+    "en": "Mākslas terapeita individuālā sesija 2 specialists"
+  },
+  {
+    "code": "453",
+    "lv": "Mākslas terapeita individuālā sesija bērniem 1 speciālists",
+    "ru": "Индивидуальная сессия арт-терапевта для детей 1 специалист",
+    "en": "Mākslas terapeita individuālā sesija bērniem 1 specialist"
+  },
+  {
+    "code": "90",
+    "lv": "Mammologa konsultācija 5 speciālisti",
+    "ru": "Консультация маммолога 5 специалисты",
+    "en": "Consultation with a mammologist 5 specialists"
+  },
+  {
+    "code": "42",
+    "lv": "Mamogrāfija (MMG, radioloģisks izmeklējums, nosūtījums obligāts) 15 speciālisti",
+    "ru": "Маммография (ММГ, радиологическое обследование, направление обязательно) 15 специалисты",
+    "en": "Mammography (MMG, radiological examination, referral required) 15 specialists"
+  },
+  {
+    "code": "76",
+    "lv": "Manikīrs, pedikīrs 5 speciālisti",
+    "ru": "Маникюр, педикюр 5 специалисты",
+    "en": "Manicure, pedicure 5 specialists"
+  },
+  {
+    "code": "481",
+    "lv": "Manuālās terapijas elementi 2 speciālisti",
+    "ru": "Элементы мануальной терапии 2 специалисты",
+    "en": "Manuālās terapijas elementi 2 specialists"
+  },
+  {
+    "code": "02",
+    "lv": "Masāža 78 speciālisti",
+    "ru": "Массаж 78 специалисты",
+    "en": "Massage 78 specialists"
+  },
+  {
+    "code": "232",
+    "lv": "Masāža bērnam 32 speciālisti",
+    "ru": "Массаж для ребенка 32 специалисты",
+    "en": "Massage for a child 32 specialists"
+  },
+  {
+    "code": "405",
+    "lv": "Masāža grūtniecēm 3 speciālisti",
+    "ru": "Массаж для беременных 3 специалисты",
+    "en": "Masāža grūtniecēm 3 specialists"
+  },
+  {
+    "code": "506",
+    "lv": "Medicīniskais Cigun - vingrošana 12 speciālisti",
+    "ru": "Медицинский цигун – гимнастика 12 специалисты",
+    "en": "Medical Qigong – exercises 12 specialists"
+  },
+  {
+    "code": "335",
+    "lv": "Medmāsas pakalpojums 2 speciālisti",
+    "ru": "Услуги медсестры 2 специалисты",
+    "en": "Nurse service 2 specialists"
+  },
+  {
+    "code": "140",
+    "lv": "Mezoterapija 1 speciālists",
+    "ru": "Мезотерапия 1 специалист",
+    "en": "Mezoterapija 1 specialist"
+  },
+  {
+    "code": "317",
+    "lv": "Miega speciālista konsultācija 4 speciālisti",
+    "ru": "Консультация специалиста в области сна 4 специалисты",
+    "en": "Consultation with a sleep specialist 4 specialists"
+  },
+  {
+    "code": "499",
+    "lv": "Miofunkcionālā terapija 1 speciālists",
+    "ru": "Миофункциональная терапия 1 специалист",
+    "en": "Myofunctional therapy 1 specialist"
+  },
+  {
+    "code": "435",
+    "lv": "MR izmeklējums ar 3T iekārtu kaulu locītavu sistēmai bez kontrastēšanas vienai daļai 2 speciālisti",
+    "ru": "МРТ-исследование костно-суставной системы на томографе 3 Т без контрастирования (одна область) 2 специалисты",
+    "en": "MRI examination of the bone-and-joint system on a 3T scanner without contrast (one region) 2 specialists"
+  },
+  {
+    "code": "432",
+    "lv": "MR izmeklējums ar 3T iekārtu mugurkaulāja un muguras smadzenēm bez kontrastēšanas vienai daļai 2 speciālisti",
+    "ru": "МРТ-исследование позвоночника и спинного мозга на томографе 3 Т без контрастирования (одна область) 2 специалисты",
+    "en": "MRI examination of the spine and spinal cord on a 3T scanner without contrast (one region). 2 specialists"
+  },
+  {
+    "code": "347",
+    "lv": "Mutes, sejas un žokļu ķirurga konsultācija (galvas un kakla mīksto audu veidojumi) 2 speciālisti",
+    "ru": "Консультация челюстно-лицевого хирурга (образования мягких тканей головы и шеи) 2 специалисты",
+    "en": "Consultation with an oral and maxillofacial surgeon (soft tissue masses of the head and neck) 2 specialists"
+  },
+  {
+    "code": "83",
+    "lv": "Nagu protezēšana un modelēšana ar ārstniecisko gēlu (par vienu nagu) 6 speciālisti",
+    "ru": "Протезирование и моделирование ногтя лечебным гелем (за один ноготь) 6 специалисты",
+    "en": "Nail prosthetics and modeling with therapeutic gel (per nail) 6 specialists"
+  },
+  {
+    "code": "77",
+    "lv": "Narkologa konsultācija 7 speciālisti",
+    "ru": "Консультация нарколога 7 специалисты",
+    "en": "Consultation with a narcologist 7 specialists"
+  },
+  {
+    "code": "525",
+    "lv": "Narkologa konsultācija bērnam 1 speciālists",
+    "ru": "Консультация нарколога для ребенка 1 специалист",
+    "en": "Narcologist consultation for a child 1 specialist"
+  },
+  {
+    "code": "15",
+    "lv": "Nefrologa konsultācija 11 speciālisti",
+    "ru": "Консультация нефролога 11 специалисты",
+    "en": "Consultation with an nephrologist 11 specialists"
+  },
+  {
+    "code": "14",
+    "lv": "Neiroķirurga konsultācija 27 speciālisti",
+    "ru": "Консультация нейрохирурга 27 специалисты",
+    "en": "Consultation with a neurosurgeon 27 specialists"
+  },
+  {
+    "code": "454",
+    "lv": "Neirologa atkārtota konsultācija 3 speciālisti",
+    "ru": "Повторная консультация невролога 3 специалисты",
+    "en": "Neirologa atkārtota konsultācija 3 specialists"
+  },
+  {
+    "code": "404",
+    "lv": "Neirologa attālināta konsultācija vai izmeklējumu skaidrojums 1 speciālists",
+    "ru": "Дистанционная консультация невролога или разъяснение результатов обследования 1 специалист",
+    "en": "Neurologist remote consultation or examination explanation 1 specialist"
+  },
+  {
+    "code": "535",
+    "lv": "Neirologa attālināta konsultācija vai izmeklējumu skaidrojums atkārtotam pacientam 1 speciālists",
+    "ru": "Дистанционная консультация невролога или разъяснение результатов обследования для повторного пациента 1 специалист",
+    "en": "Neurologist remote consultation or examination explanation for a returning patient 1 specialist"
+  },
+  {
+    "code": "16",
+    "lv": "Neirologa konsultācija 88 speciālisti",
+    "ru": "Консультация невролога 88 специалисты",
+    "en": "Consultation with an neurologist 88 specialists"
+  },
+  {
+    "code": "60",
+    "lv": "Neirologa konsultācija bērnam 15 speciālisti",
+    "ru": "Консультация невролога для ребенка 15 специалисты",
+    "en": "Consultation with an neurologist for a child 15 specialists"
+  },
+  {
+    "code": "95",
+    "lv": "Neirometrija 3 speciālisti",
+    "ru": "Нейрометрия 3 специалисты",
+    "en": "Neurometry 3 specialists"
+  },
+  {
+    "code": "63",
+    "lv": "Neiromiogrāfija (Neirogrāfija) 5 speciālisti",
+    "ru": "Нейромиография (Нейрография) 5 специалисты",
+    "en": "Neuromyography (Neurography) 5 specialists"
+  },
+  {
+    "code": "331",
+    "lv": "Neirosonogrāfija jaundzimušajiem 3 speciālisti",
+    "ru": "Нейросонография новорожденному 3 специалисты",
+    "en": "Neurosonography in newborns 3 specialists"
+  },
+  {
+    "code": "78",
+    "lv": "Neirosonogrāfija jaundzimušajiem un zīdaiņa vecuma bērniem 4 speciālisti",
+    "ru": "Нейросонография новорожденному или младенцу 4 специалисты",
+    "en": "Neurosonography in newborns and infants 4 specialists"
+  },
+  {
+    "code": "29",
+    "lv": "Neirosonoloģiskā izmeklēšana 1 speciālists",
+    "ru": "Нейросонологическое исследование 1 специалист",
+    "en": "Neurosonological examination 1 specialist"
+  },
+  {
+    "code": "437",
+    "lv": "Neonatologs 1 speciālists",
+    "ru": "Неонатолог 1 специалист",
+    "en": "Neonatologs 1 specialist"
+  },
+  {
+    "code": "202",
+    "lv": "Obligātā veselības pārbaude (OVP), arodārsts 26 speciālisti",
+    "ru": "Обязательная проверка здоровья (ОПР), профессиональный врач 26 специалисты",
+    "en": "Compulsory health check (CHC), occupational doctor 26 specialists"
+  },
+  {
+    "code": "309",
+    "lv": "OCT - acu tīklenes tomogrāfija 22 speciālisti",
+    "ru": "ОСТ - томография сетчатки глаза 22 специалисты",
+    "en": "OCT - retinal tomography 22 specialists"
+  },
+  {
+    "code": "397",
+    "lv": "Oftalmologa (acu ārsta) attālināta konsultācija vai izmeklējumu skaidrojums atkārtotam pacientam 1 speciālists",
+    "ru": "Дистанционная консультация офтальмолога (окулиста) или разъяснение результатов обследования для повторного пациента 1 специалист",
+    "en": "Ophthalmologist (eye doctor) remote consultation or examination explanation for a returning patient 1 specialist"
+  },
+  {
+    "code": "03",
+    "lv": "Oftalmologa (acu ārsta) konsultācija 90 speciālisti",
+    "ru": "Консультация офтальмолога (глазного врача) 90 специалисты",
+    "en": "Consultation with an ophthalmologist (eye doctor) 90 specialists"
+  },
+  {
+    "code": "97",
+    "lv": "Oftalmologa (acu ārsta) konsultācija bērnam 27 speciālisti",
+    "ru": "Консультация офтальмолога (глазного врача) для ребенка 27 специалисты",
+    "en": "Consultation with an ophthalmologist (eye doctor) for a child 27 specialists"
+  },
+  {
+    "code": "129",
+    "lv": "Oftalmologa (acu ārsta) konsultācija pirms intravitriālās injekcijas 2 speciālisti",
+    "ru": "Консультация офтальмолога (глазного врача) перед интравитреальной инъекцией 2 специалисты",
+    "en": "Consultation with an ophthalmologist (eye doctor) before intravitreal injection 2 specialists"
+  },
+  {
+    "code": "278",
+    "lv": "Oftalmologa konsultācija pirms redzes lāzerkorekcijas operācijas 3 speciālisti",
+    "ru": "Консультация офтальмолога перед операцией по лазерной коррекции зрения 3 специалисты",
+    "en": "Oftalmologa konsultācija pirms redzes lāzerkorekcijas operācijas 3 specialists"
+  },
+  {
+    "code": "173",
+    "lv": "Onkologa - ķīmijterapeita konsultācija 28 speciālisti",
+    "ru": "Консультация онколога-химиотерапевта 28 специалисты",
+    "en": "Consultation with a chemotherapy oncologist 28 specialists"
+  },
+  {
+    "code": "79",
+    "lv": "Onkologa konsultācija 6 speciālisti",
+    "ru": "Консультация онколога 6 специалисты",
+    "en": "Consultation with an oncologist 6 specialists"
+  },
+  {
+    "code": "444",
+    "lv": "Onkoloģijas ginekologa konsultācija 6 speciālisti",
+    "ru": "Консультация гинеколога в области онкологии 6 специалисты",
+    "en": "Gynaecological oncology consultation 6 specialists"
+  },
+  {
+    "code": "445",
+    "lv": "Onkoloģijas otolaringologa konsultācija 2 speciālisti",
+    "ru": "Консультация отоларинголога в области онкологии 2 специалисты",
+    "en": "Consultation with an oncology otolaryngologist 2 specialists"
+  },
+  {
+    "code": "138",
+    "lv": "Operējoša bērnu ķirurga konsultācija 1 speciālists",
+    "ru": "Консультация оперирующего детского хирурга 1 специалист",
+    "en": "Consultation by an operating paediatric surgeon 1 specialist"
+  },
+  {
+    "code": "133",
+    "lv": "Operējoša ginekologa konsultācija 9 speciālisti",
+    "ru": "Консультация оперирующего гинеколога 9 специалисты",
+    "en": "Consultation with an operating gynaecologist for a child 9 specialists"
+  },
+  {
+    "code": "124",
+    "lv": "Operējoša ķirurga konsultācija 9 speciālisti",
+    "ru": "Консультация оперирующего хирурга 9 специалисты",
+    "en": "Consultation by an operating surgeon 9 specialists"
+  },
+  {
+    "code": "150",
+    "lv": "Operējoša neiroķirurga konsultācija 5 speciālisti",
+    "ru": "Консультация оперирующего нейрохирурга 5 специалисты",
+    "en": "Consultation by an operating neurosurgeon 5 specialists"
+  },
+  {
+    "code": "205",
+    "lv": "Operējoša oftalmologa (acu ārsta) konsultācija 6 speciālisti",
+    "ru": "Консультация оперирующего офтальмолога (глазного врача) 6 специалисты",
+    "en": "Consultation by an operating ophthalmologist (eye doctor) 6 specialists"
+  },
+  {
+    "code": "131",
+    "lv": "Operējoša oftalmologa (acu ārsta) konsultācija pirms glaukomas operācijas 1 speciālists",
+    "ru": "Консультация оперирующего офтальмолога (глазного врача) перед операцией по удалению глаукомы 1 специалист",
+    "en": "Consultation with the operating ophthalmologist (eye doctor) before glaucoma surgery 1 specialist"
+  },
+  {
+    "code": "128",
+    "lv": "Operējoša oftalmologa (acu ārsta) konsultācija pirms kataraktas operācijas 2 speciālisti",
+    "ru": "Консультация оперирующего офтальмолога (глазного врача) перед операцией по удалению катаракты 2 специалисты",
+    "en": "Consultation with the operating ophthalmologist (eye doctor) before cataract surgery 2 specialists"
+  },
+  {
+    "code": "141",
+    "lv": "Operējoša oftalmologa konsultācija: blefaroplastika, u.c. acu plakstiņu rekonstruktīvās operācijas 3 speciālisti",
+    "ru": "Консультация оперирующего офтальмолога: блефаропластика и другие реконструктивные операции век 3 специалисты",
+    "en": "Operējoša oftalmologa konsultācija: blefaroplastika, u.c. acu plakstiņu rekonstruktīvās operācijas 3 specialists"
+  },
+  {
+    "code": "144",
+    "lv": "Operējoša otolaringologa (LOR) konsultācija 6 speciālisti",
+    "ru": "Консультация оперирующего отоларинголога (ЛОР) 6 специалисты",
+    "en": "Consultation with an operating otolaryngologist 6 specialists"
+  },
+  {
+    "code": "203",
+    "lv": "Operējoša otolaringologa (LOR) konsultācija bērnam 6 speciālisti",
+    "ru": "Консультация оперирующего отоларинголога (ЛОР) для ребенка 6 специалисты",
+    "en": "Consultation of the operating otolaryngologist for the child 6 specialists"
+  },
+  {
+    "code": "204",
+    "lv": "Operējoša proktologa konsultācija 6 speciālisti",
+    "ru": "Консультация оперирующего проктолога 6 специалисты",
+    "en": "Consultation of an operating proctologist 6 specialists"
+  },
+  {
+    "code": "136",
+    "lv": "Operējoša traumatologa, ortopēda konsultācija 28 speciālisti",
+    "ru": "Консультация оперирующего травматолога, ортопеда 28 специалисты",
+    "en": "Consultation with an operating traumatologist, orthopaedist 28 specialists"
+  },
+  {
+    "code": "146",
+    "lv": "Operējoša urologa konsultācija 2 speciālisti",
+    "ru": "Консультация оперирующего уролога 2 специалисты",
+    "en": "Consultation with an operating urologist 2 specialists"
+  },
+  {
+    "code": "373",
+    "lv": "Optometrista (acu ārsta) konsultācija pēc lāzerkorekcijas operācijas 4 speciālisti",
+    "ru": "Консультация оптометриста (глазного врача) после операции по лазерной коррекции 4 специалисты",
+    "en": "Optometrista (acu ārsta) konsultācija pēc lāzerkorekcijas operācijas 4 specialists"
+  },
+  {
+    "code": "372",
+    "lv": "Optometrista konsultācija pirms lāzerkorekcijas operācijas 2 speciālisti",
+    "ru": "Консультация оптометриста перед операцией по лазерной коррекции зрения 2 специалисты",
+    "en": "Optometrista konsultācija pirms lāzerkorekcijas operācijas 2 specialists"
+  },
+  {
+    "code": "212",
+    "lv": "Optometrista pakalpojumi 5 speciālisti",
+    "ru": "Услуги оптометриста 5 специалисты",
+    "en": "Optometrist services 5 specialists"
+  },
+  {
+    "code": "391",
+    "lv": "Orāli-cekālā tranzīta laika un zarnu disbakteriozes diagnostika ar ūdeņraža laktulozes elptestu 3 speciālisti",
+    "ru": "Диагностика времени орально-цекального транзита и дисбактериоза кишечника водородным дыхательным тестом c лактулозой 3 специалисты",
+    "en": "Orāli-cekālā tranzīta laika un zarnu disbakteriozes diagnostika ar ūdeņraža laktulozes elptestu 3 specialists"
+  },
+  {
+    "code": "334",
+    "lv": "Osmolaritātes tests 1 speciālists",
+    "ru": "Тест для определения осмолярности 1 специалист",
+    "en": "Osmolarity test 1 specialist"
+  },
+  {
+    "code": "41",
+    "lv": "Osteodensitometrija (DEXA) 8 speciālisti",
+    "ru": "Остеоденситометрия (DEXA) 8 специалисты",
+    "en": "Osteodensitometry (DEXA) 8 specialists"
+  },
+  {
+    "code": "269",
+    "lv": "Osteodensitometrija (DEXA) bērnam 1 speciālists",
+    "ru": "Остеоденситометрия (DEXA) для ребенка 1 специалист",
+    "en": "Osteodensitometry (DEXA) in a child 1 specialist"
+  },
+  {
+    "code": "256",
+    "lv": "Osteopāta konsultācija 4 speciālisti",
+    "ru": "Консультация остеопата 4 специалисты",
+    "en": "Osteopath consultation 4 specialists"
+  },
+  {
+    "code": "96",
+    "lv": "Osteoporozes speciālista konsultācija 1 speciālists",
+    "ru": "Консультация специалиста в области остеопороза 1 специалист",
+    "en": "Consultation with an osteoporosis specialist 1 specialist"
+  },
+  {
+    "code": "12",
+    "lv": "Otolaringologa (LOR) konsultācija 80 speciālisti",
+    "ru": "Консультация отоларинголога (ЛОР) 80 специалисты",
+    "en": "Consultation with an otolaryngologist 80 specialists"
+  },
+  {
+    "code": "80",
+    "lv": "Otolaringologa (LOR) konsultācija bērnam 42 speciālisti",
+    "ru": "Консультация отоларинголога (ЛОР) для ребенка 42 специалисты",
+    "en": "Consultation with an otolaryngologist for a child 42 specialists"
+  },
+  {
+    "code": "456",
+    "lv": "OxyGeneo terapija 1 speciālists",
+    "ru": "Терапия OxyGeneo 1 специалист",
+    "en": "OxyGeneo terapija 1 specialist"
+  },
+  {
+    "code": "126",
+    "lv": "Pact Med fotodinamiskā pretmikrobā terapija 2 speciālisti",
+    "ru": "Фотодинамическая антимикробная терапия (Pact Med) 2 специалисты",
+    "en": "Pact Med fotodinamiskā pretmikrobā terapija 2 specialists"
+  },
+  {
+    "code": "316",
+    "lv": "Paliatīvās aprūpes specialista konsultācija 3 speciālisti",
+    "ru": "Консультация специалиста по паллиативному уходу 3 специалисты",
+    "en": "Consultation with a palliative care specialist 3 specialists"
+  },
+  {
+    "code": "541",
+    "lv": "Palīglīdzekļa remonts 1 speciālists",
+    "ru": "Ремонт вспомогательного средства 1 специалист",
+    "en": "Repair of an assistive device 1 specialist"
+  },
+  {
+    "code": "540",
+    "lv": "Palīglīdzekļa saņemšana 1 speciālists",
+    "ru": "Получение вспомогательного средства 1 специалист",
+    "en": "Receiving an assistive device 1 specialist"
+  },
+  {
+    "code": "419",
+    "lv": "Parkinsona slimības speciālista konsultācija 2 speciālisti",
+    "ru": "Консультация специалиста в области болезни Паркинсона 2 специалисты",
+    "en": "Consultation with a Parkinson's specialist 2 specialists"
+  },
+  {
+    "code": "471",
+    "lv": "Pārsiešana 7 speciālisti",
+    "ru": "Перевязка 7 специалисты",
+    "en": "Pārsiešana 7 specialists"
+  },
+  {
+    "code": "460",
+    "lv": "Pēcdzemdību periods, handlings (4.nodarbība Topošo vecāku skolā) 1 speciālists",
+    "ru": "Послеродовой период, хэндлинг (4-е занятие в Школе будущих родителей) 1 специалист",
+    "en": "Pēcdzemdību periods, handlings (4.nodarbība Topošo vecāku skolā) 1 specialist"
+  },
+  {
+    "code": "54",
+    "lv": "Pēdas nagu apstrāde (30 min.) 5 speciālisti",
+    "ru": "Обработка ногтей стоп (30 мин.) 5 специалисты",
+    "en": "Foot nail treatment (30 min.) 5 specialists"
+  },
+  {
+    "code": "28",
+    "lv": "Pediatra konsultācija 19 speciālisti",
+    "ru": "Консультация педиатра 19 специалисты",
+    "en": "Consultation with a paediatrician 19 specialists"
+  },
+  {
+    "code": "417",
+    "lv": "Pigmenta plankumu likvidēšana ar lāzeru 2 speciālisti",
+    "ru": "Удаление пигментных пятен лазером 2 специалисты",
+    "en": "Removal of pigmented spots with laser 2 specialists"
+  },
+  {
+    "code": "18",
+    "lv": "Plastikas ķirurga konsultācija 5 speciālisti",
+    "ru": "Консультация пластического хирурга 5 специалисты",
+    "en": "Consultation with a plastic surgeon 5 specialists"
+  },
+  {
+    "code": "348",
+    "lv": "Plastikas ķirurga konsultācija, rokas ķirurģija 3 speciālisti",
+    "ru": "Консультация пластического хирурга, хирургия кисти 3 специалисты",
+    "en": "Plastic surgeon consultation, hand surgery 3 specialists"
+  },
+  {
+    "code": "240",
+    "lv": "Plazmoliftings - PRP / PRF terapija ādai un matiem 1 speciālists",
+    "ru": "Плазмолифтинг — PRP/PRF-терапия для кожи и волос 1 специалист",
+    "en": "Plasmolifting — PRP / PRF therapy for skin and hair 1 specialist"
+  },
+  {
+    "code": "507",
+    "lv": "Podologa konsultācija 16 speciālisti",
+    "ru": "Консультация подолога 16 специалисты",
+    "en": "Podiatrist consultation 16 specialists"
+  },
+  {
+    "code": "108",
+    "lv": "Podometrija 5 speciālisti",
+    "ru": "Подометрия 5 специалисты",
+    "en": "Podometrics 5 specialists"
+  },
+  {
+    "code": "266",
+    "lv": "Podometrija bērnam 2 speciālisti",
+    "ru": "Подометрия для ребёнка 2 специалисты",
+    "en": "Podometry for a child 2 specialists"
+  },
+  {
+    "code": "293",
+    "lv": "Poligrāfija 2 speciālisti",
+    "ru": "Полиграфия 2 специалисты",
+    "en": "Poligrāfija 2 specialists"
+  },
+  {
+    "code": "505",
+    "lv": "Polisomnogrāfija klīnikā 1 speciālists",
+    "ru": "Полисомнография в клинике 1 специалист",
+    "en": "Polysomnography in clinic 1 specialist"
+  },
+  {
+    "code": "517",
+    "lv": "PRF injekcijas traumatoloģijā 2 speciālisti",
+    "ru": "PRF инъекции в травматологии 2 специалисты",
+    "en": "PRF injections in traumatology 2 specialists"
+  },
+  {
+    "code": "371",
+    "lv": "Profesora, akadēmiķa konsultācija 2 speciālisti",
+    "ru": "Консультация профессора, академика 2 специалисты",
+    "en": "Consultation by a professor, academic 2 specialists"
+  },
+  {
+    "code": "211",
+    "lv": "Profesora onkologa imunologa konsultācija 1 speciālists",
+    "ru": "Консультация профессора онколога иммунолога 1 специалист",
+    "en": "Consultation with an immunologist and oncologist 1 specialist"
+  },
+  {
+    "code": "51",
+    "lv": "Proktologa konsultācija 17 speciālisti",
+    "ru": "Консультация проктолога 17 специалисты",
+    "en": "Consultation with a proctologist 17 specialists"
+  },
+  {
+    "code": "545",
+    "lv": "Psihiatra attālināta konsultācija 1 speciālists",
+    "ru": "Дистанционная консультация психиатра 1 специалист",
+    "en": "Remote psychiatric consultation 1 specialist"
+  },
+  {
+    "code": "81",
+    "lv": "Psihiatra konsultācija 18 speciālisti",
+    "ru": "Консультация психиатра 18 специалисты",
+    "en": "Consultation with a psychiatrist 18 specialists"
+  },
+  {
+    "code": "234",
+    "lv": "Psihologa attālināta konsultācija 1 speciālists",
+    "ru": "Дистанционная консультация психолога 1 специалист",
+    "en": "Psychologist remote consultation 1 specialist"
+  },
+  {
+    "code": "27",
+    "lv": "Psihologa konsultācija 15 speciālisti",
+    "ru": "Консультация психолога 15 специалисты",
+    "en": "Psychologist's consultation 15 specialists"
+  },
+  {
+    "code": "272",
+    "lv": "Psihologa konsultācija bērnam 7 speciālisti",
+    "ru": "Консультация психолога для ребенка 7 специалисты",
+    "en": "Psychologist's consultation for a child 7 specialists"
+  },
+  {
+    "code": "174",
+    "lv": "Psiholoģiskās izpētes (Vekslera intelekta tests bērniem) 1 speciālists",
+    "ru": "Психологическое обследование (тест интеллекта Векслера для детей) 1 специалист",
+    "en": "Psychological assessment (Wechsler Intelligence Test for Children) 1 specialist"
+  },
+  {
+    "code": "207",
+    "lv": "Psihosomātiskā ginekologa - dzemdību speciālistu konsultācija 7 speciālisti",
+    "ru": "Консультация психосоматического гинеколога-специалиста по родам 7 специалисты",
+    "en": "Psychosomatic gynaecological - obstetric specialist consultation 7 specialists"
+  },
+  {
+    "code": "384",
+    "lv": "Psihoterapeita konsultācija 3 speciālisti",
+    "ru": "Консультация психотерапевта 3 специалисты",
+    "en": "Psihoterapeita konsultācija 3 specialists"
+  },
+  {
+    "code": "10",
+    "lv": "Pulmonologa (Pneimonologa) konsultācija 37 speciālisti",
+    "ru": "Консультация пульманолога 37 специалисты",
+    "en": "Consultation with a pulmonologist (pneumologist) 37 specialists"
+  },
+  {
+    "code": "374",
+    "lv": "Redzes pārbaude pie optometrista 7 speciālisti",
+    "ru": "Проверка зрения у оптометриста 7 специалисты",
+    "en": "Redzes pārbaude pie optometrista 7 specialists"
+  },
+  {
+    "code": "356",
+    "lv": "Rehabilitācija pēc COVID-19 1 speciālists",
+    "ru": "Реабилитация после Covid-19 1 специалист",
+    "en": "Rehabilitation after COVID-19 1 specialist"
+  },
+  {
+    "code": "276",
+    "lv": "Rehabilitologa konsultācija 2 speciālisti",
+    "ru": "Консультация реабилитолога 2 специалисты",
+    "en": "Consultation with a rehabilitation therapist 2 specialists"
+  },
+  {
+    "code": "155",
+    "lv": "Reimatologa konsultācija 22 speciālisti",
+    "ru": "Консультация ревматолога 22 специалисты",
+    "en": "Consultation with a rheumatologist 22 specialists"
+  },
+  {
+    "code": "313",
+    "lv": "Rentgens bērnam (RTG, radioloģisks izmeklējums, nosūtījums obligāts) 21 speciālists",
+    "ru": "Рентген для ребенка (РТГ, радиологическое исследование, направление обязательно) 21 специалист",
+    "en": "X-ray for a child (X-ray, radiological examination, referral obligatory) 21 specialist"
+  },
+  {
+    "code": "186",
+    "lv": "Rentgens (RTG, radioloģisks izmeklējums, nosūtījums obligāts) 47 speciālisti",
+    "ru": "Рентген (РТГ, радиологическое исследование, направление обязательно) 47 специалисты",
+    "en": "X-ray (X-ray, radiological examination, referral required) 47 specialists"
+  },
+  {
+    "code": "117",
+    "lv": "Sāls istaba 1 speciālists",
+    "ru": "Соляная комната 1 специалист",
+    "en": "Salt room 1 specialist"
+  },
+  {
+    "code": "310",
+    "lv": "Sanitārā grāmatiņa (atzinums par veselības stāvokļa atbilstību veicamajam darbam) 1 speciālists",
+    "ru": "Санитарная книжка (заключение о соответствии состояния здоровья предусмотренной работе) 1 специалист",
+    "en": "Health record (medical certificate) 1 specialist"
+  },
+  {
+    "code": "118",
+    "lv": "Šarko duša 9 speciālisti",
+    "ru": "Душ Шарко 9 специалисты",
+    "en": "Charcot shower 9 specialists"
+  },
+  {
+    "code": "448",
+    "lv": "Sausās hidromasāžas gulta 1 speciālists",
+    "ru": "Сухая гидромассажная кровать 1 специалист",
+    "en": "Sausās hidromasāžas gulta 1 specialist"
+  },
+  {
+    "code": "111",
+    "lv": "Sejas kopšanas procedūra 3 speciālisti",
+    "ru": "Процедура по уходу за лицом 3 специалисты",
+    "en": "Facial treatment procedure 3 specialists"
+  },
+  {
+    "code": "62",
+    "lv": "Sejas masāža 3 speciālisti",
+    "ru": "Массаж лица 3 специалисты",
+    "en": "Sejas masāža 3 specialists"
+  },
+  {
+    "code": "149",
+    "lv": "Sejas zonu vaksācija 2 speciālisti",
+    "ru": "Ваксинг (удаление волос воском) на лице 2 специалисты",
+    "en": "Sejas zonu vaksācija 2 specialists"
+  },
+  {
+    "code": "157",
+    "lv": "Simetrisku locītavu USG (vienam locītavu pārim) 1 speciālists",
+    "ru": "УЗИ симметричных суставов (на одну пару суставов) 1 специалист",
+    "en": "Symmetrical joint ultrasound (per joint pair) 1 specialist"
+  },
+  {
+    "code": "402",
+    "lv": "Slīpā galda tests neiroloģijā 1 speciālists",
+    "ru": "Тилт-тест в неврологии 1 специалист",
+    "en": "Tilt table test in neurology 1 specialist"
+  },
+  {
+    "code": "116",
+    "lv": "Sonoelastogrāfija aknām (aknu elastogrāfija) 4 speciālisti",
+    "ru": "Соноэластография печени (эластрография печени) 4 специалисты",
+    "en": "Sonoelastography of the liver (liver elastography) 4 specialists"
+  },
+  {
+    "code": "103",
+    "lv": "Sonoelastogrāfija krūtīm (piena dziedzeriem) 1 speciālists",
+    "ru": "Соноэластография груди (молочных желез) 1 специалист",
+    "en": "Sonoelastography of the breasts (mammary glands) 1 specialist"
+  },
+  {
+    "code": "102",
+    "lv": "Sonoelastogrāfija vairogdziedzerim 2 speciālisti",
+    "ru": "Соноэластография щитовидной железы 2 специалисты",
+    "en": "Sonoelastography of the thyroid gland 2 specialists"
+  },
+  {
+    "code": "215",
+    "lv": "Spirogrāfija 3 speciālisti",
+    "ru": "Спирография 3 специалисты",
+    "en": "Spirography 3 specialists"
+  },
+  {
+    "code": "300",
+    "lv": "Sporta ārsta konsultācija 4 speciālisti",
+    "ru": "Консультация спортивного врача 4 специалисты",
+    "en": "Sports doctor consultation 4 specialists"
+  },
+  {
+    "code": "494",
+    "lv": "Sporta masaža 6 speciālisti",
+    "ru": "Спортивный массаж 6 специалисты",
+    "en": "Sports massage 6 specialists"
+  },
+  {
+    "code": "34",
+    "lv": "Standarta transtorakālā ehokardiogrāfija 2 speciālisti",
+    "ru": "Стандартная трансторакальная эхокардиография 2 специалисты",
+    "en": "Standard transthoracic echocardiography 2 specialists"
+  },
+  {
+    "code": "403",
+    "lv": "Striju un rētu korekcija ar lāzeru 1 speciālists",
+    "ru": "Коррекция растяжек и рубцов лазером 1 специалист",
+    "en": "Stretch marks and scar correction with laser 1 specialist"
+  },
+  {
+    "code": "537",
+    "lv": "Sudoscan (Ādas sudomotorās funkcijas novērtējums) 1 speciālists",
+    "ru": "Судоскан (Оценка судомоторной функции кожи) 1 специалист",
+    "en": "Sudoscan (Skin sudomotor function assessment) 1 specialist"
+  },
+  {
+    "code": "229",
+    "lv": "Tehniskā ortopēda konsultācija 8 speciālisti",
+    "ru": "Консультация технического ортопеда 8 специалисты",
+    "en": "Consultation by a technical orthopaedist 8 specialists"
+  },
+  {
+    "code": "262",
+    "lv": "Tehniskā ortopēda konsultācija bērnam 5 speciālisti",
+    "ru": "Консультация технического ортопеда для ребенка 5 специалисты",
+    "en": "Technical orthopaedic consultation for a child 5 specialists"
+  },
+  {
+    "code": "73",
+    "lv": "Terapeita konsultācija 8 speciālisti",
+    "ru": "Консультация терапевта 8 специалисты",
+    "en": "Consultation with a therapist 8 specialists"
+  },
+  {
+    "code": "147",
+    "lv": "Terapeita konsultācija pirms veselības kompleksās ekspresdiagnostikas ( Check-up programmas ) 1 speciālists",
+    "ru": "Консультация терапевта перед комплексной экспресс-диагностикой здоровья (программой Check-up) 1 специалист",
+    "en": "Therapist consultation before the Health Check-up programme 1 specialist"
+  },
+  {
+    "code": "377",
+    "lv": "Tievās zarnas kapsulas endoskopija 1 speciālists",
+    "ru": "Капсульная эндоскопия тонкой кишки 1 специалист",
+    "en": "Tievās zarnas kapsulas endoskopija 1 specialist"
+  },
+  {
+    "code": "100",
+    "lv": "Torakālā ķirurga konsultācija 7 speciālisti",
+    "ru": "Консультация торакального хирурга 7 специалисты",
+    "en": "Consultation with a thoracic surgeon 7 specialists"
+  },
+  {
+    "code": "370",
+    "lv": "Transezofagiālā ehokardiogrāfija (TEE) 6 speciālisti",
+    "ru": "Трансэзофагеальная эхокардиография (ТЭЭ) 6 специалисты",
+    "en": "Transesophageal echocardiography (TEE) 6 specialists"
+  },
+  {
+    "code": "87",
+    "lv": "Transrektālā ultrasonogrāfija (USG) prostatai 7 speciālisti",
+    "ru": "Трансректальная ультрасонография (УЗИ) простаты 7 специалисты",
+    "en": "Transrectal ultrasonography (USG) of the prostate 7 specialists"
+  },
+  {
+    "code": "447",
+    "lv": "Traumatologa, ortopēda atkārtotā konsultācija 2 speciālisti",
+    "ru": "Traumatologa, ortopēda atkārtotā konsultācija 2 специалисты",
+    "en": "Traumatologa, ortopēda atkārtotā konsultācija 2 specialists"
+  },
+  {
+    "code": "24",
+    "lv": "Traumatologa, ortopēda konsultācija 73 speciālisti",
+    "ru": "Консультация травматолога, ортопеда 73 специалисты",
+    "en": "Consultation with a traumatologist, orthopaedist 73 specialists"
+  },
+  {
+    "code": "107",
+    "lv": "Traumatologa, ortopēda konsultācija bērnam 8 speciālisti",
+    "ru": "Консультация травматолога, ортопеда для ребенка 8 специалисты",
+    "en": "Consultation with a traumatologist, orthopaedist for a child 8 specialists"
+  },
+  {
+    "code": "137",
+    "lv": "Traumatologa, ortopēda konsultācija pirms artroskopiskās operācijas 5 speciālisti",
+    "ru": "Консультация травматолога, ортопеда перед артроскопической операцией 5 специалисты",
+    "en": "Consultation with a traumatologist, orthopaedist before arthroscopic surgery 5 specialists"
+  },
+  {
+    "code": "314",
+    "lv": "Triecienviļņa terapija 9 speciālisti",
+    "ru": "Ударно-волновая терапия 9 специалисты",
+    "en": "Shockwave therapy 9 specialists"
+  },
+  {
+    "code": "291",
+    "lv": "Trigerpunktu masāža 13 speciālisti",
+    "ru": "Массаж триггерных точек 13 специалисты",
+    "en": "Trigger point massage 13 specialists"
+  },
+  {
+    "code": "325",
+    "lv": "Ūdens aerobika 4 speciālisti",
+    "ru": "Водная аэробика 4 специалисты",
+    "en": "Water aerobics 4 specialists"
+  },
+  {
+    "code": "178",
+    "lv": "Ultraīsviļņu terapija(UVČ) 3 speciālisti",
+    "ru": "Ультракоротковолновая терапия (УКВ-терапия) 3 специалисты",
+    "en": "Ultraīsviļņu terapija(UVČ) 3 specialists"
+  },
+  {
+    "code": "294",
+    "lv": "Ultraskaņa vai fonoforēze 9 speciālisti",
+    "ru": "УЗИ или фонофорез 9 специалисты",
+    "en": "Ultraskaņa vai fonoforēze 9 specialists"
+  },
+  {
+    "code": "35",
+    "lv": "Ultraskaņas (USG) izmeklēšana ginekoloģijā 48 speciālisti",
+    "ru": "Ультразвуковое (УЗИ) исследование в гинекологии 48 специалисты",
+    "en": "Ultrasound (USG) in gynaecology 48 specialists"
+  },
+  {
+    "code": "109",
+    "lv": "Ultraskaņas (USG) izmeklēšana ginekoloģijā grūtniecēm 14 speciālisti",
+    "ru": "Ультразвуковое (УЗИ) исследование в гинекологии для беременных 14 специалисты",
+    "en": "Ultrasound (USG) in gynaecology for pregnant women 14 specialists"
+  },
+  {
+    "code": "450",
+    "lv": "Ultraskaņas (USG) izmeklēšana ginekoloģijā (iegurņa dobuma orgāni) 11 speciālisti",
+    "ru": "Ультразвуковое (УЗИ) обследование в гинекологии (органы тазовой полости) 11 специалисты",
+    "en": "Ultraskaņas (USG) izmeklēšana ginekoloģijā (iegurņa dobuma orgāni) 11 specialists"
+  },
+  {
+    "code": "213",
+    "lv": "Ultrasonogrāfija mīkstiem audiem (virspusēji) 11 speciālisti",
+    "ru": "Ультрасонография мягких тканей (поверхностно) 11 специалисты",
+    "en": "Ultrasonography of soft tissues (superficial) 11 specialists"
+  },
+  {
+    "code": "104",
+    "lv": "Ultrasonogrāfija (USG) gūžas locītavām jaundzimušajiem un zīdaiņa vecuma bērniem 5 speciālisti",
+    "ru": "Ультрасонография (УЗИ) тазобедренных суставов для новорожденных и младенцев 5 специалисты",
+    "en": "Ultrasonography (USG) of the hip joints in newborns and infants 5 specialists"
+  },
+  {
+    "code": "88",
+    "lv": "Ultrasonogrāfija (USG) krūtīm (piena dziedzeriem) 21 speciālists",
+    "ru": "Ультрасонография (УЗИ) груди (молочных желез) 21 специалист",
+    "en": "Ultrasonography (USG) of the breasts (mammary glands) 21 specialist"
+  },
+  {
+    "code": "515",
+    "lv": "Ultrasonogrāfija (USG) locītavām 3 speciālisti",
+    "ru": "Ультразвуковое исследование (УЗИ) суставов 3 специалисты",
+    "en": "Ultrasonography (USG) of joints 3 specialists"
+  },
+  {
+    "code": "101",
+    "lv": "Ultrasonogrāfija (USG) mīkstajiem audiem un locītavām 49 speciālisti",
+    "ru": "Ультрасонография (УЗИ) мягких тканей и суставов 49 специалисты",
+    "en": "Ultrasonography (USG) of soft tissues and joints 49 specialists"
+  },
+  {
+    "code": "308",
+    "lv": "Ultrasonogrāfija (USG) mīkstajiem audiem un locītavām bērnam 5 speciālisti",
+    "ru": "Ультрасонография (УЗИ) мягких тканей и суставов для ребенка 5 специалисты",
+    "en": "Ultrasonography (USG) of soft tissues and joints for a child 5 specialists"
+  },
+  {
+    "code": "434",
+    "lv": "Ultrasonogrāfija (USG) prostatai 13 speciālisti",
+    "ru": "Ультрасонография (УЗИ) простаты 13 специалисты",
+    "en": "Ultrasonography (USG) of the prostate 13 specialists"
+  },
+  {
+    "code": "288",
+    "lv": "Ultrasonogrāfija (USG) sēkliniekiem 16 speciālisti",
+    "ru": "Ультрасонография (УЗИ) семенных желез 16 специалисты",
+    "en": "Ultrasonography (USG) of the testicles 16 specialists"
+  },
+  {
+    "code": "420",
+    "lv": "Ultrasonogrāfija (USG) urīnceļiem (tikai nierēm, urīnpūslim, prostatai) 16 speciālisti",
+    "ru": "Ультрасонография (УЗИ) мочевыводящих путей (только почек, мочевого пузыря и простаты) 16 специалисты",
+    "en": "Ultrasonography (USG) of the urinary tract (kidney, bladder, prostate only) 16 specialists"
+  },
+  {
+    "code": "86",
+    "lv": "Ultrasonogrāfija (USG) vairogdziedzerim 71 speciālists",
+    "ru": "Ультрасонография (УЗИ) щитовидной железы 71 специалист",
+    "en": "Ultrasonography (USG) of the thyroid gland 71 specialist"
+  },
+  {
+    "code": "105",
+    "lv": "Ultrasonogrāfija (USG) vairogdziedzerim bērnam 18 speciālisti",
+    "ru": "Ультрасонография (УЗИ) щитовидной железы для ребенка 18 специалисты",
+    "en": "Ultrasonography (USG) of the thyroid gland for a child 18 specialists"
+  },
+  {
+    "code": "433",
+    "lv": "Ultrasonogrāfija (USG) vēdera dobuma orgāniem (tai skaitā, nierēm, urīnpūslim, izņemot prostatu) 35 speciālisti",
+    "ru": "Ультрасонография (УЗИ) органов брюшной полости (в том числе почек, мочевого пузыря, кроме простаты) 35 специалисты",
+    "en": "Ultrasonography (USG) of abdominal organs (including kidneys, bladder, excluding prostate) 35 specialists"
+  },
+  {
+    "code": "32",
+    "lv": "Ultrasonogrāfija (USG) vēdera dobuma orgāniem (tai skaitā, nierēm, urīnpūslim, prostatai) 62 speciālisti",
+    "ru": "Ультрасонография (УЗИ) органов брюшной полости (в том числе почек, мочевого пузыря, простаты) 62 специалисты",
+    "en": "Ultrasonography (USG) of abdominal organs (including kidneys, bladder, prostate) 62 specialists"
+  },
+  {
+    "code": "106",
+    "lv": "Ultrasonogrāfija (USG) vēdera dobuma orgāniem (tai skaitā, nierēm, urīnpūslim, prostatai) bērnam 21 speciālists",
+    "ru": "Ультрасонография (УЗИ) органов брюшной полости (в том числе почек, мочевого пузыря, простаты) для ребенка 21 специалист",
+    "en": "Ultrasonography (USG) of abdominal organs (including kidneys, bladder, prostate) for a child 21 specialist"
+  },
+  {
+    "code": "176",
+    "lv": "Ultrasonogrāfija vēdera dobumam 24 speciālisti",
+    "ru": "Ультрасонография брюшной полости 24 специалисты",
+    "en": "Ultrasonography of the abdominal cavity 24 specialists"
+  },
+  {
+    "code": "13",
+    "lv": "Urologa konsultācija 65 speciālisti",
+    "ru": "Консультация уролога 65 специалисты",
+    "en": "Consultation with an urologist 65 specialists"
+  },
+  {
+    "code": "270",
+    "lv": "Urologa konsultācija bērnam 2 speciālisti",
+    "ru": "Консультация уролога для ребенка 2 специалисты",
+    "en": "Urologist consultation for a child 2 specialists"
+  },
+  {
+    "code": "287",
+    "lv": "Urologa-androloga konsultācija 3 speciālisti",
+    "ru": "Консультация уролога-андролога 3 специалисты",
+    "en": "Consultation of a urologist 3 specialists"
+  },
+  {
+    "code": "428",
+    "lv": "Uztura plāna sastādīšana 5 speciālisti",
+    "ru": "Составление плана питания 5 специалисты",
+    "en": "Making a diet plan 5 specialists"
+  },
+  {
+    "code": "423",
+    "lv": "Uztura speciālista atkārtotā konsultācija 1 speciālists",
+    "ru": "Повторная консультация диетолога 1 специалист",
+    "en": "Uztura speciālista atkārtotā konsultācija 1 specialist"
+  },
+  {
+    "code": "191",
+    "lv": "Uztura speciālista attālināta konsultācija vai izmeklējumu skaidrojums 5 speciālisti",
+    "ru": "Дистанционная консультация диетолога или разъяснение результатов обследования 5 специалисты",
+    "en": "Nutritionist remote consultation or examination explanation 5 specialists"
+  },
+  {
+    "code": "487",
+    "lv": "Uztura speciālista attālināta konsultācija vai izmeklējumu skaidrojums atkārtotam pacientam 3 speciālisti",
+    "ru": "Дистанционная консультация диетолога или разъяснение результатов обследования для повторного пациента 3 специалисты",
+    "en": "Nutritionist remote consultation or examination explanation for a returning patient 3 specialists"
+  },
+  {
+    "code": "20",
+    "lv": "Uztura speciālista konsultācija 30 speciālisti",
+    "ru": "Консультация специалиста по питанию 30 специалисты",
+    "en": "Consultation with a nutritionist 30 specialists"
+  },
+  {
+    "code": "429",
+    "lv": "Uztura speciālista konsultācija ar uztura plāna sastādīšanu 6 speciālisti",
+    "ru": "Консультация специалиста по питанию с составлением плана питания 6 специалисты",
+    "en": "Consultation with a nutritionist to draw up a diet plan 6 specialists"
+  },
+  {
+    "code": "258",
+    "lv": "Uztura speciālista konsultācija, iekļaujot mērījumus ar bioimpedances metodi 9 speciālisti",
+    "ru": "Консультация специалиста по питанию, включая измерения с использованием исследования биоимпеданс, 9 специалисты",
+    "en": "Consultation by a nutritionist, including bioimpedance measurements 9 specialists"
+  },
+  {
+    "code": "504",
+    "lv": "Uzvedības analītiķa (ABA terapija) nodarbība 4 speciālisti",
+    "ru": "Сеанс прикладного анализа поведения (ABA-терапия) 4 специалисты",
+    "en": "Applied behavior analysis (ABA therapy) session 4 specialists"
+  },
+  {
+    "code": "85",
+    "lv": "Vakcinācija (potēšana) pret A un B hepatītu 4 speciālisti",
+    "ru": "Вакцинация (прививка) против гепатита A и B 4 специалисты",
+    "en": "Vakcinācija (potēšana) pret A un B hepatītu 4 specialists"
+  },
+  {
+    "code": "84",
+    "lv": "Vakcinācija (potēšana) pret cilvēka papilomas (CPV / HPV) vīrusu 15 speciālisti",
+    "ru": "Вакцинация (прививка) против вируса папилломы человека (CPV / HPV) 15 специалисты",
+    "en": "Vakcinācija (potēšana) pret cilvēka papilomas (CPV / HPV) vīrusu 15 specialists"
+  },
+  {
+    "code": "93",
+    "lv": "Vakcinācija (potēšana) pret ērču encefalītu 6 speciālisti",
+    "ru": "Вакцинация (прививка) от клещевого энцефалита 6 специалисты",
+    "en": "Vaccination (inoculation) against tick-borne encephalitis 6 specialists"
+  },
+  {
+    "code": "94",
+    "lv": "Vakcinācija (potēšana) pret ērču encefalītu bērnam 4 speciālisti",
+    "ru": "Вакцинация (прививка) от клещевого энцефалита для ребенка 4 специалисты",
+    "en": "Vaccination (inoculation) against tick-borne encephalitis for a child 4 specialists"
+  },
+  {
+    "code": "166",
+    "lv": "Vakcinācija (potēšana) pret Hepatītu B pieaugušajiem 5 speciālisti",
+    "ru": "Вакцинация (прививка) от гепатита B для взрослых 5 специалисты",
+    "en": "Vakcinācija (potēšana) pret Hepatītu B pieaugušajiem 5 specialists"
+  },
+  {
+    "code": "306",
+    "lv": "Vakcinācija (potēšana) pret pneimokoku 23 speciālisti",
+    "ru": "Вакцинация (прививка) от пневмококковой инфекции 23 специалисты",
+    "en": "Pneumococcal vaccination (inoculation) 23 specialists"
+  },
+  {
+    "code": "483",
+    "lv": "Valsts apmaksāta vakcinācija pret gripu personām, kuras norādītas MK noteikumos nr.330 1 speciālists",
+    "ru": "Государственно оплачиваемая вакцинация против гриппа для лиц, указанных в правилах Кабинета Министров №330 1 специалист",
+    "en": "Valsts apmaksāta vakcinācija pret gripu personām, kuras norādītas MK noteikumos nr.330 1 specialist"
+  },
+  {
+    "code": "151",
+    "lv": "Varžacs likvidācija (par vienu) 8 speciālisti",
+    "ru": "Удаление мозоли (за одну) 8 специалисты",
+    "en": "Corn removal (per one) 8 specialists"
+  },
+  {
+    "code": "219",
+    "lv": "Vecmātes konsultācija 6 speciālisti",
+    "ru": "Консультация акушерки 6 специалисты",
+    "en": "Midwife consultation 6 specialists"
+  },
+  {
+    "code": "546",
+    "lv": "Vecmātes mājas vizīte 4 speciālisti",
+    "ru": "Консультация акушерки на домy 4 специалисты",
+    "en": "Midwife home consultation 4 specialists"
+  },
+  {
+    "code": "43",
+    "lv": "Veloergometrija (VEM) 18 speciālisti",
+    "ru": "Велоэргометрия (VEM) 18 специалисты",
+    "en": "Veloergometry (VEM) 18 specialists"
+  },
+  {
+    "code": "271",
+    "lv": "Veloergometrija (VEM) bērnam 1 speciālists",
+    "ru": "Велоэргометрия (VEM) для ребенка 1 специалист",
+    "en": "Veloergometry (VEM) for a child 1 specialist"
+  },
+  {
+    "code": "142",
+    "lv": "Vertebrologa (mugurkaula ķirurga) konsultācija 14 speciālisti",
+    "ru": "Консультация вертебролога (хирурга позвоночника) 14 специалисты",
+    "en": "Consultation with a vertebrologist (spinal surgeon) 14 specialists"
+  },
+  {
+    "code": "510",
+    "lv": "Virspusēji novietotu orgānu un audu ultrasonogrāfija (sēklinieki, limfmezgli, zemādas struktūras, u.c.) 3 speciālisti",
+    "ru": "Ультразвуковое исследование поверхностно расположенных органов и тканей (яички, лимфатические узлы, подкожные структуры и др.) 3 специалисты",
+    "en": "Ultrasonography of superficially located organs and tissues (testes, lymph nodes, subcutaneous structures, etc.) 3 specialists"
+  },
+  {
+    "code": "290",
+    "lv": "Vispārējā kermeņa masāža 11 speciālisti",
+    "ru": "Общий масаж тела 11 специалисты",
+    "en": "General body massage 11 specialists"
+  },
+  {
+    "code": "392",
+    "lv": "Zarnu disbakteriozes diagnostika ar ūdeņraža glikozes elptestu 3 speciālisti",
+    "ru": "Диагностика дисбактериоза кишечника водородным дыхательным тестом 3 специалисты",
+    "en": "Diagnosis of intestinal dysbacteriosis with hydrogen glucose breath test 3 specialists"
+  },
+  {
+    "code": "119",
+    "lv": "Zemūdens masāža 10 speciālisti",
+    "ru": "Подводный массаж 10 специалисты",
+    "en": "Underwater massage 10 specialists"
+  },
+  {
+    "code": "490",
+    "lv": "Zobārsta konsultācija bērnam pirms zobu ārstēšanas vispārējā narkozē 1 speciālists",
+    "ru": "Стоматологическая консультация для ребёнка перед лечением зубов под общей анестезией 1 специалист",
+    "en": "Dental consultation for a child before dental treatment under general anesthesia 1 specialist"
+  },
+  {
+    "code": "247",
+    "lv": "Zobārstniecība bērniem 23 speciālisti",
+    "ru": "Стоматология для детей 23 специалисты",
+    "en": "Dentistry for children 23 specialists"
+  },
+  {
+    "code": "49",
+    "lv": "Zobārsts 101 speciālists",
+    "ru": "Стоматолог 101 специалист",
+    "en": "Dentist 101 specialist"
+  },
+  {
+    "code": "244",
+    "lv": "Zobu higiēna 50 speciālisti",
+    "ru": "Гигиена зубов 50 специалисты",
+    "en": "Dental hygiene 50 specialists"
+  },
+  {
+    "code": "396",
+    "lv": "Zobu higiēna bērnam 19 speciālisti",
+    "ru": "Зубная гигиена для ребенка 19 специалисты",
+    "en": "Dental hygiene for a child 19 specialists"
+  },
+  {
+    "code": "245",
+    "lv": "Zobu ķirurģija 7 speciālisti",
+    "ru": "Зубная хирургия 7 специалисты",
+    "en": "Dental surgery 7 specialists"
+  },
+  {
+    "code": "246",
+    "lv": "Zobu protezēšana 16 speciālisti",
+    "ru": "Протезирование зубов 16 специалисты",
+    "en": "Dentures 16 specialists"
+  }
+]
