@@ -24,10 +24,15 @@
       "notified": {}
     },
     "180": {
-      "insts": {},
+      "insts": {
+        "Jugla, VCA veselības klīnika": "25.08.2026",
+        "Veselības centru apvienība VCA (visas filiāles)": "25.08.2026"
+      },
       "notified": {
         "Dole, VCA veselības klīnika|17.08.2026": 1786681854.2296927,
-        "Veselības centru apvienība VCA (visas filiāles)|17.08.2026": 1786681854.2296927
+        "Veselības centru apvienība VCA (visas filiāles)|17.08.2026": 1786681854.2296927,
+        "Jugla, VCA veselības klīnika|25.08.2026": 1786693861.4734843,
+        "Veselības centru apvienība VCA (visas filiāles)|25.08.2026": 1786693861.4734843
       }
     },
     "82": {
