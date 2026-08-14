@@ -25,8 +25,10 @@
     },
     "180": {
       "insts": {
+        "Dole, VCA veselības klīnika": "26.08.2026",
         "Dubulti, VCA veselības klīnika": "15.09.2026",
-        "Veselības centru apvienība VCA (visas filiāles)": "15.09.2026"
+        "Elite, VCA veselības klīnika": "17.08.2026",
+        "Veselības centru apvienība VCA (visas filiāles)": "17.08.2026"
       },
       "notified": {
         "Dole, VCA veselības klīnika|17.08.2026": 1786681854.2296927,
@@ -37,7 +39,8 @@
         "Veselības centru apvienība VCA (visas filiāles)|20.08.2026": 1786694474.287938,
         "Dubulti, VCA veselības klīnika|15.09.2026": 1786705260.5891738,
         "Veselības centru apvienība VCA (visas filiāles)|15.09.2026": 1786705260.5891738,
-        "Elite, VCA veselības klīnika|17.08.2026": 1786705855.5042112
+        "Elite, VCA veselības klīnika|17.08.2026": 1786705855.5042112,
+        "Dole, VCA veselības klīnika|26.08.2026": 1786707082.4882073
       }
     },
     "82": {
