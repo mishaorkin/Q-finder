@@ -42,13 +42,5 @@
       "notified": {}
     }
   },
-  "pending": {
-    "382620443": [
-      {
-        "text": "🟢 ПОЯВИЛИСЬ МЕСТА!\n\nУслуга: Doplerogrāfija (Duplex) kāju vēnām, artērijām (Допплерография (Duplex) вен, артерий ног)\n\n🟢 Dole, VCA veselības klīnika — 17.08.2026 (Latgales iela 357, Rīga)\n🟢 Veselības centru apvienība VCA (visas filiāles) — 17.08.2026\n\nСкорее записывайтесь:\nhttps://eveselibaspunkts.lv/lv/Booking/Institutions?ServiceCode=180",
-        "code": "180",
-        "lang": "ru"
-      }
-    ]
-  }
+  "pending": {}
 }
