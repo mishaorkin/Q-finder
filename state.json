@@ -62,13 +62,5 @@
       }
     }
   },
-  "pending": {
-    "382620443": [
-      {
-        "text": "🟢 ПОЯВИЛИСЬ МЕСТА!\n\nУслуга: Flebologa konsultācija (Консультация флеболога)\n\n🟢 Aizkraukles klīnika — 18.08.2026 (Bērzu iela 5, Aizkraukle)\n🟢 Cēsu klīnika — 29.10.2026 (Slimnīcas iela 9, Cēsis)\n\nСкорее записывайтесь:\nhttps://eveselibaspunkts.lv/lv/Booking/Institutions?ServiceCode=50",
-        "code": "50",
-        "lang": "ru"
-      }
-    ]
-  }
+  "pending": {}
 }
