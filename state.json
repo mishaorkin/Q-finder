@@ -16,8 +16,12 @@
       }
     },
     "393": {
-      "insts": {},
-      "notified": {}
+      "insts": {
+        "GASTRO CENTRS Veselība un medicīna": "18.09.2026"
+      },
+      "notified": {
+        "GASTRO CENTRS Veselība un medicīna|18.09.2026": 1786935662.2115078
+      }
     },
     "394": {
       "insts": {},
@@ -62,5 +66,13 @@
       }
     }
   },
-  "pending": {}
+  "pending": {
+    "382620443": [
+      {
+        "text": "🟢 ПОЯВИЛИСЬ МЕСТА!\n\nУслуга: Apakšējā endoskopija (kolonoskopija) (Нижняя эндоскопия (колоноскопия))\n\n🟢 GASTRO CENTRS Veselība un medicīna — 18.09.2026 (Gaiļezera iela 1, Rīga)\n\nСкорее записывайтесь:\nhttps://eveselibaspunkts.lv/lv/Booking/Institutions?ServiceCode=393",
+        "code": "393",
+        "lang": "ru"
+      }
+    ]
+  }
 }
