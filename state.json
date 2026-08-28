@@ -16,7 +16,9 @@
       }
     },
     "393": {
-      "insts": {},
+      "insts": {
+        "GASTRO CENTRS Veselība un medicīna": "07.09.2026"
+      },
       "notified": {
         "GASTRO CENTRS Veselība un medicīna|18.09.2026": 1786935662.2115078,
         "GASTRO CENTRS Veselība un medicīna|24.09.2026": 1787032404.6998684,
@@ -24,7 +26,8 @@
         "GASTRO CENTRS Veselība un medicīna|16.09.2026": 1787725292.2376785,
         "GASTRO CENTRS Veselība un medicīna|04.09.2026": 1787830918.0530546,
         "Valmiera, Vidzemes slimnīca|03.09.2026": 1787904702.6256127,
-        "Vidzemes slimnīca (visas filiāles)|03.09.2026": 1787904702.6256127
+        "Vidzemes slimnīca (visas filiāles)|03.09.2026": 1787904702.6256127,
+        "GASTRO CENTRS Veselība un medicīna|07.09.2026": 1787938889.4179637
       }
     },
     "394": {
