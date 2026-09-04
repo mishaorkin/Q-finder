@@ -80,9 +80,17 @@
         "Cēsu klīnika|04.09.2026": 1787636396.3447926,
         "Cēsu klīnika|18.12.2026": 1788432700.4792223,
         "Cēsu klīnika|09.10.2026": 1787936547.1626062,
-        "Cēsu klīnika|06.10.2026": 1788445334.2535818
+        "Cēsu klīnika|06.10.2026": 1788489094.4608626
       }
     }
   },
-  "pending": {}
+  "pending": {
+    "382620443": [
+      {
+        "text": "🟢 ПОЯВИЛИСЬ МЕСТА!\n\nУслуга: Flebologa konsultācija (Консультация флеболога)\n\n🟢 Cēsu klīnika — 06.10.2026 (Slimnīcas iela 9, Cēsis)\n\nСкорее записывайтесь:\nhttps://eveselibaspunkts.lv/lv/Booking/Institutions?ServiceCode=50",
+        "code": "50",
+        "lang": "ru"
+      }
+    ]
+  }
 }
