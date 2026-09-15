@@ -58,8 +58,14 @@
       }
     },
     "82": {
-      "insts": {},
-      "notified": {}
+      "insts": {
+        "Elite, VCA veselības klīnika": "17.09.2026",
+        "Veselības centru apvienība VCA (visas filiāles)": "17.09.2026"
+      },
+      "notified": {
+        "Elite, VCA veselības klīnika|17.09.2026": 1789473144.90876,
+        "Veselības centru apvienība VCA (visas filiāles)|17.09.2026": 1789473144.90876
+      }
     },
     "519": {
       "insts": {},
