@@ -96,13 +96,5 @@
       }
     }
   },
-  "pending": {
-    "382620443": [
-      {
-        "text": "🟢 ПОЯВИЛИСЬ МЕСТА!\n\nУслуга: Augšējā endoskopija (gastroskopija) un apakšējā endoskopija (kolonoskopija) (Верхняя эндоскопия (гастроскопия) и нижняя эндоскопия (колоноскопия))\n\n🟢 Elite, VCA veselības klīnika — 17.09.2026 (Anniņmuižas bulvāris 85, Rīga)\n🟢 Veselības centru apvienība VCA (visas filiāles) — 17.09.2026\n\nСкорее записывайтесь:\nhttps://eveselibaspunkts.lv/lv/Booking/Institutions?ServiceCode=82",
-        "code": "82",
-        "lang": "ru"
-      }
-    ]
-  }
+  "pending": {}
 }
