@@ -23,14 +23,14 @@
   {
     "code": "305",
     "lv": "Aktuāli! Vakcinācija (potēšana) pret ērču encefalītu bērnam",
-    "spec": 11,
+    "spec": 12,
     "ru": "Актуально! Вакцинация (прививка) от клещевого энцефалита для ребенка",
     "en": "News! Vaccination (inoculation) against tick-borne encephalitis for a child"
   },
   {
     "code": "184",
     "lv": "Aktuāli! Vakcinācija (potēšana) pret gripu",
-    "spec": 3,
+    "spec": 4,
     "ru": "Актуально! Вакцинация (прививка) от гриппа",
     "en": "News! Influenza vaccination (inoculation)"
   },
@@ -58,7 +58,7 @@
   {
     "code": "145",
     "lv": "Algologa (sāpju terapeita) konsultācijas",
-    "spec": 17,
+    "spec": 18,
     "ru": "Консультации альголога (врача по болям)",
     "en": "Consultation by an algologist (pain therapist)"
   },
@@ -79,14 +79,14 @@
   {
     "code": "154",
     "lv": "Anesteziologa, reanimatologa konsultācija",
-    "spec": 74,
+    "spec": 70,
     "ru": "Консультация анестезиолога-реаниматолога",
     "en": "Anaesthesiologist and intensivist consultation"
   },
   {
     "code": "218",
     "lv": "Angiogrāfija",
-    "spec": 2,
+    "spec": 3,
     "ru": "Ангиография",
     "en": "Angiography"
   },
@@ -114,7 +114,7 @@
   {
     "code": "393",
     "lv": "Apakšējā endoskopija (kolonoskopija)",
-    "spec": 18,
+    "spec": 20,
     "ru": "Нижняя эндоскопия (колоноскопия)",
     "en": "Lower endoscopy (colonoscopy)"
   },
@@ -170,7 +170,7 @@
   {
     "code": "160",
     "lv": "Ārsta attālināta konsultācija par analīžu rezultātiem",
-    "spec": 5,
+    "spec": 6,
     "ru": "Дистанционная консультация врача о результатах анализов",
     "en": "Doctor's remote consultation about test results"
   },
@@ -212,7 +212,7 @@
   {
     "code": "36",
     "lv": "Ārstnieciskās vingrošanas nodarbība",
-    "spec": 8,
+    "spec": 7,
     "ru": "Занятие по лечебной гимнастике",
     "en": "Ārstnieciskās vingrošanas nodarbība"
   },
@@ -240,7 +240,7 @@
   {
     "code": "168",
     "lv": "Asinsvadu ķirurga konsultācija",
-    "spec": 10,
+    "spec": 17,
     "ru": "Консультация сосудистого хирурга",
     "en": "Consultation with a vascular surgeon"
   },
@@ -254,21 +254,21 @@
   {
     "code": "289",
     "lv": "Atkārtota fizioterapeita konsultācija 1 mēneša laikā",
-    "spec": 15,
+    "spec": 14,
     "ru": "Повторная консультация физотерапевта в течение 1 месяца",
     "en": "Repeat physiotherapy consultation within 1 month"
   },
   {
     "code": "38",
     "lv": "Atkārtota podologa konsultācija",
-    "spec": 3,
+    "spec": 2,
     "ru": "Повторная консультация подолога",
     "en": "Repeated podiatrist consultation"
   },
   {
     "code": "496",
     "lv": "Atsevišku zonu masaža (pedas, apkakles, krustu dala)",
-    "spec": 6,
+    "spec": 5,
     "ru": "Массаж отдельных зон (стопы, воротниковая зона, поясница)",
     "en": "Specific area massage (feet, neck, lower back)"
   },
@@ -282,14 +282,14 @@
   {
     "code": "482",
     "lv": "Audiologopēda individuāla nodarbība bērnam",
-    "spec": 11,
+    "spec": 10,
     "ru": "Индивидуальное занятие аудиологопеда для ребёнка",
     "en": "Individual session with a speech-language pathologist (audiology) for a child"
   },
   {
     "code": "59",
     "lv": "Audiologopēda pirmreizēja konsultācija",
-    "spec": 16,
+    "spec": 15,
     "ru": "Первичная консультация аудиологопеда",
     "en": "Initial consultation with a speech-language pathologist (audiology)"
   },
@@ -317,7 +317,7 @@
   {
     "code": "82",
     "lv": "Augšējā endoskopija (gastroskopija) un apakšējā endoskopija (kolonoskopija)",
-    "spec": 4,
+    "spec": 5,
     "ru": "Верхняя эндоскопия (гастроскопия) и нижняя эндоскопия (колоноскопия)",
     "en": "Augšējā endoskopija (gastroskopija) un apakšējā endoskopija (kolonoskopija)"
   },
@@ -506,7 +506,7 @@
   {
     "code": "363",
     "lv": "Datortomogrāfija (CT) galvai",
-    "spec": 10,
+    "spec": 11,
     "ru": "Компьютерная томография (КТ) головы",
     "en": "Computed tomography (CT) of the head"
   },
@@ -520,21 +520,21 @@
   {
     "code": "367",
     "lv": "Datortomogrāfija (CT) mugurkaulam",
-    "spec": 10,
+    "spec": 11,
     "ru": "Компьютерная томография (КТ) позвоночника",
     "en": "Computed tomography (CT) of the spine"
   },
   {
     "code": "366",
     "lv": "Datortomogrāfija (CT) plaušām",
-    "spec": 10,
+    "spec": 11,
     "ru": "Компьютерная томография (КТ) легких",
     "en": "Computed tomography (CT) of the lungs"
   },
   {
     "code": "369",
     "lv": "Datortomogrāfija (CT) plaušām ar kontrastvielu",
-    "spec": 11,
+    "spec": 12,
     "ru": "Компьютерная томография (КТ) легких с контрастным веществом",
     "en": "Computed tomography (CT) of the lungs with contrast medium"
   },
@@ -548,14 +548,14 @@
   {
     "code": "365",
     "lv": "Datortomogrāfija (CT) vēderam",
-    "spec": 7,
+    "spec": 8,
     "ru": "Компьютерная томография (КТ) живота",
     "en": "Computed tomography (CT) of the abdomen"
   },
   {
     "code": "368",
     "lv": "Datortomogrāfija (CT) vēderam ar kontrastvielu",
-    "spec": 10,
+    "spec": 11,
     "ru": "Компьютерная томография (КТ) живота с контрастным веществом",
     "en": "Computed tomography (CT) of the abdomen with contrast medium"
   },
@@ -583,7 +583,7 @@
   {
     "code": "407",
     "lv": "Dermatologa konsultācija",
-    "spec": 16,
+    "spec": 18,
     "ru": "Консультация дерматолога",
     "en": "Dermatologist consultation"
   },
@@ -618,7 +618,7 @@
   {
     "code": "64",
     "lv": "Dermatologa, venerologa konsultācija bērnam",
-    "spec": 38,
+    "spec": 39,
     "ru": "Консультация дерматолога, венеролога для ребенка",
     "en": "Consultation with a dermatologist, venereologist for a child"
   },
@@ -674,7 +674,7 @@
   {
     "code": "45",
     "lv": "Doplerogrāfija (Duplex) galvas, kakla asinsvadiem",
-    "spec": 38,
+    "spec": 36,
     "ru": "Допплерография (Duplex) сосудов головы, шеи",
     "en": "Doppler (Duplex) of head, neck vessels"
   },
@@ -688,14 +688,14 @@
   {
     "code": "46",
     "lv": "Doplerogrāfija (Duplex) kāju, roku vēnām, artērijām",
-    "spec": 8,
+    "spec": 7,
     "ru": "Допплерография (Duplex) вен и артерий ног, рук",
     "en": "Doppler (Duplex) of veins, arteries of legs, arms"
   },
   {
     "code": "284",
     "lv": "Doplerogrāfija (Duplex) kāju vēnām",
-    "spec": 7,
+    "spec": 6,
     "ru": "Доплерография (Duplex) вен ног",
     "en": "Doppler (Duplex) for leg veins"
   },
@@ -723,14 +723,14 @@
   {
     "code": "217",
     "lv": "Ehokardiogrāfija bērnam (obligāti norādot bērna vecumu piezīmēs)",
-    "spec": 10,
+    "spec": 11,
     "ru": "Эхокардиография для ребенка (обязательно указать возраст ребенка в примечании)",
     "en": "Echocardiogram for a child (must specify child's age in the notes)"
   },
   {
     "code": "30",
     "lv": "Ehokardiogrāfija (EHO)",
-    "spec": 35,
+    "spec": 39,
     "ru": "Эхокардиография (ЭХО)",
     "en": "Echocardiography (ECH)"
   },
@@ -772,7 +772,7 @@
   {
     "code": "31",
     "lv": "Elektrokardiogrāfija (EKG)",
-    "spec": 38,
+    "spec": 37,
     "ru": "Электрокардиография (ЭКГ",
     "en": "Electrocardiography (ECG)"
   },
@@ -793,7 +793,7 @@
   {
     "code": "254",
     "lv": "Elektromiogrāfija",
-    "spec": 5,
+    "spec": 6,
     "ru": "Электромиография",
     "en": "Electromyography"
   },
@@ -835,7 +835,7 @@
   {
     "code": "09",
     "lv": "Endokrinologa konsultācija",
-    "spec": 53,
+    "spec": 52,
     "ru": "Консультация эндокринолога",
     "en": "Consultation with an endocrinologist"
   },
@@ -849,28 +849,28 @@
   {
     "code": "430",
     "lv": "Ergoterapeita individuāla nodarbība",
-    "spec": 15,
+    "spec": 16,
     "ru": "Индивидуальное занятие эрготерапевта",
     "en": "Individual occupational therapy session"
   },
   {
     "code": "431",
     "lv": "Ergoterapeita individuāla nodarbība bērnam",
-    "spec": 8,
+    "spec": 9,
     "ru": "Индивидуальное занятие эрготерапевта для ребёнка",
     "en": "Individual occupational therapy session for a child"
   },
   {
     "code": "21",
     "lv": "Ergoterapeita pirmreizēja konsultācija",
-    "spec": 17,
+    "spec": 18,
     "ru": "Первичная консультация эрготерапевта",
     "en": "Initial occupational therapy consultation"
   },
   {
     "code": "66",
     "lv": "Ergoterapeita pirmreizēja konsultācija bērnam",
-    "spec": 8,
+    "spec": 9,
     "ru": "Первичная консультация эрготерапевта для ребёнка",
     "en": "Initial occupational therapy consultation for a child"
   },
@@ -891,7 +891,7 @@
   {
     "code": "07",
     "lv": "Fizikālās un rehabilitācijas medicīnas ārsta konsultācija",
-    "spec": 23,
+    "spec": 25,
     "ru": "Консультация врача в области физикальной медицины и реабилитации",
     "en": "Consultation with a doctor of physical and rehabilitation medicine"
   },
@@ -933,7 +933,7 @@
   {
     "code": "53",
     "lv": "Fizioterapeita individuāla nodarbība",
-    "spec": 84,
+    "spec": 86,
     "ru": "Индивидуальное занятие у физиотерапевта",
     "en": "Individual session with a physiotherapist"
   },
@@ -954,7 +954,7 @@
   {
     "code": "52",
     "lv": "Fizioterapeita pirmreizēja izmeklēšana, funkcionāla stāvokļa noteikšana, rehabilitācijas programmas sastādīšana (fizioterapeits)",
-    "spec": 50,
+    "spec": 51,
     "ru": "Первичное исследование физиотерапевта, определение функционального состояния, составление программы реабилитации (физиотерапевт)",
     "en": "Physiotherapist's initial examination, determination of functional status, design of rehabilitation programme (physiotherapist)"
   },
@@ -968,7 +968,7 @@
   {
     "code": "230",
     "lv": "Fizioterapeita pirmreizēja konsultācija bērnam",
-    "spec": 52,
+    "spec": 53,
     "ru": "Первичная консультация физиотерапевта для ребенка",
     "en": "First consultation with a physiotherapist for a child"
   },
@@ -1015,6 +1015,13 @@
     "en": "Gastroenterologist remote consultation or examination explanation"
   },
   {
+    "code": "489",
+    "lv": "Gastroenterologa attālināta konsultācija vai izmeklējumu skaidrojums atkārtotam pacientam",
+    "spec": 1,
+    "ru": "Дистанционная консультация гастроэнтеролога или разъяснение результатов обследования для повторного пациента",
+    "en": "Gastroenterologist remote consultation or examination explanation for a returning patient"
+  },
+  {
     "code": "23",
     "lv": "Gastroenterologa konsultācija",
     "spec": 35,
@@ -1024,7 +1031,7 @@
   {
     "code": "33",
     "lv": "Gastroskopija (augšējā endoskopija)",
-    "spec": 3,
+    "spec": 1,
     "ru": "Гастроскопия (верхняя эндоскопия)",
     "en": "Gastroscopy (upper endoscopy)"
   },
@@ -1080,7 +1087,7 @@
   {
     "code": "05",
     "lv": "Ģimenes ārsta konsultācija",
-    "spec": 25,
+    "spec": 26,
     "ru": "Консультация семейного врача",
     "en": "Consultation with a family doctor"
   },
@@ -1115,14 +1122,14 @@
   {
     "code": "04",
     "lv": "Ginekologa, dzemdību speciālista konsultācija",
-    "spec": 117,
+    "spec": 118,
     "ru": "Консультация гинеколога, специалиста по родам",
     "en": "Consultation with a gynaecologist, obstetrician"
   },
   {
     "code": "163",
     "lv": "Ginekologa konsultācija",
-    "spec": 80,
+    "spec": 77,
     "ru": "Консультация гинеколога",
     "en": "Consultation with a gynaecologist"
   },
@@ -1136,7 +1143,7 @@
   {
     "code": "69",
     "lv": "Ginekologa konsultācija, ietverot USG izmeklēšanu ginekoloģijā",
-    "spec": 45,
+    "spec": 44,
     "ru": "Консультация гинеколога, включая УЗИ в области гинекологии",
     "en": "Gynaecological consultation including gynaecological ultrasound"
   },
@@ -1185,7 +1192,7 @@
   {
     "code": "209",
     "lv": "Hematologa konsultācija",
-    "spec": 3,
+    "spec": 4,
     "ru": "Консультация Гематолога",
     "en": "Consultation with a haematologist"
   },
@@ -1202,6 +1209,13 @@
     "spec": 7,
     "ru": "Консультация гепатолога",
     "en": "Hepatologist consultation"
+  },
+  {
+    "code": "376",
+    "lv": "Hialuronskābes filleri, skaistuma injekcijas",
+    "spec": 1,
+    "ru": "Филлеры гиалуроновой кислоты, «инъекции красоты»",
+    "en": "Hyaluronic acid fillers, beauty injections"
   },
   {
     "code": "47",
@@ -1290,7 +1304,7 @@
   {
     "code": "164",
     "lv": "Imunologa konsultācija",
-    "spec": 6,
+    "spec": 7,
     "ru": "Консультация иммунолога",
     "en": "Consultation with an immunologist"
   },
@@ -1318,7 +1332,7 @@
   {
     "code": "06",
     "lv": "Internista konsultācija",
-    "spec": 26,
+    "spec": 27,
     "ru": "Консультация терапевта (интерниста)",
     "en": "Consultation with an internist"
   },
@@ -1367,7 +1381,7 @@
   {
     "code": "17",
     "lv": "Kardiologa konsultācija",
-    "spec": 72,
+    "spec": 74,
     "ru": "Консультация кардиолога",
     "en": "Consultation with a cardiologist"
   },
@@ -1444,7 +1458,7 @@
   {
     "code": "298",
     "lv": "Kinezioloģiskā teipošana",
-    "spec": 10,
+    "spec": 9,
     "ru": "Кинезиологическое тейпирование",
     "en": "Kinesiological testing"
   },
@@ -1465,14 +1479,14 @@
   {
     "code": "11",
     "lv": "Ķirurga konsultācija",
-    "spec": 136,
+    "spec": 140,
     "ru": "Консультация хирурга",
     "en": "Consultation with a surgeon"
   },
   {
     "code": "343",
     "lv": "Ķirurga konsultācija (ādas un zemādas veidojumi)",
-    "spec": 15,
+    "spec": 16,
     "ru": "Консультация хирурга (кожные и подкожные образования)",
     "en": "Consultation with a surgeon (skin and subcutaneous growths)"
   },
@@ -1493,14 +1507,14 @@
   {
     "code": "344",
     "lv": "Ķirurga konsultācija (strutainās ādas slimības)",
-    "spec": 1,
+    "spec": 2,
     "ru": "Консультация хирурга (гнойные заболевания кожи)",
     "en": "Consultation with a surgeon (purulent skin diseases)"
   },
   {
     "code": "342",
     "lv": "Ķirurga konsultācija, vēdera dobuma ķirurģija",
-    "spec": 18,
+    "spec": 19,
     "ru": "Консультация хирурга, хирургия брюшной полости",
     "en": "Consultation of a surgeon, abdominal surgery"
   },
@@ -1549,7 +1563,7 @@
   {
     "code": "221",
     "lv": "Kolonoskopija (apakšējā endoskopija)",
-    "spec": 19,
+    "spec": 21,
     "ru": "Колоноскопия (верхняя эндоскопия)",
     "en": "Colonoscopy (lower endoscopy)"
   },
@@ -1563,9 +1577,23 @@
   {
     "code": "228",
     "lv": "Kolposkopija",
-    "spec": 6,
+    "spec": 5,
     "ru": "Кольпоскопия",
     "en": "Colposcopy"
+  },
+  {
+    "code": "539",
+    "lv": "Kombinētais izmeklējums, diagnostiskā krūšu izmeklēšana (MG+USG)",
+    "spec": 1,
+    "ru": "Комплексное исследование, диагностическое исследование молочной железы (МГ+УЗИ)",
+    "en": "Combined examination, diagnostic breast examination (MG+USG)"
+  },
+  {
+    "code": "516",
+    "lv": "Kompleksā vizīte (elektrokardiogrāfija, ehokardiogrāfija, kardiologa konsultācija)",
+    "spec": 1,
+    "ru": "Комплексный визит (электрокардиография, эхокардиография, консультация кардиолога)",
+    "en": "Comprehensive visit (electrocardiography, echocardiography, cardiologist consultation)"
   },
   {
     "code": "208",
@@ -1598,7 +1626,7 @@
   {
     "code": "279",
     "lv": "Krūšu dziedzeru ultrasonogrāfija (USG)",
-    "spec": 9,
+    "spec": 11,
     "ru": "Ультрасонография (УЗИ) молочных желез",
     "en": "Ultrasonography (USG) of the breast glands"
   },
@@ -1703,7 +1731,7 @@
   {
     "code": "74",
     "lv": "Logopēda pirmreizēja konsultācija",
-    "spec": 3,
+    "spec": 4,
     "ru": "Первичная консультация логопеда",
     "en": "Initial speech therapist consultation"
   },
@@ -1801,7 +1829,7 @@
   {
     "code": "02",
     "lv": "Masāža",
-    "spec": 83,
+    "spec": 79,
     "ru": "Массаж",
     "en": "Massage"
   },
@@ -1850,7 +1878,7 @@
   {
     "code": "549",
     "lv": "Mini check-up kompleksā veselības pārbaude",
-    "spec": 8,
+    "spec": 9,
     "ru": "Мини check-up комплексное обследование здоровья",
     "en": "Mini check-up comprehensive health examination"
   },
@@ -1899,7 +1927,7 @@
   {
     "code": "15",
     "lv": "Nefrologa konsultācija",
-    "spec": 10,
+    "spec": 9,
     "ru": "Консультация нефролога",
     "en": "Consultation with an nephrologist"
   },
@@ -1934,7 +1962,7 @@
   {
     "code": "16",
     "lv": "Neirologa konsultācija",
-    "spec": 95,
+    "spec": 88,
     "ru": "Консультация невролога",
     "en": "Consultation with an neurologist"
   },
@@ -1948,7 +1976,7 @@
   {
     "code": "60",
     "lv": "Neirologa konsultācija bērnam",
-    "spec": 17,
+    "spec": 19,
     "ru": "Консультация невролога для ребенка",
     "en": "Consultation with an neurologist for a child"
   },
@@ -1962,7 +1990,7 @@
   {
     "code": "63",
     "lv": "Neiromiogrāfija (Neirogrāfija)",
-    "spec": 5,
+    "spec": 4,
     "ru": "Нейромиография (Нейрография)",
     "en": "Neuromyography (Neurography)"
   },
@@ -1997,14 +2025,14 @@
   {
     "code": "202",
     "lv": "Obligātā veselības pārbaude (OVP), arodārsts",
-    "spec": 27,
+    "spec": 26,
     "ru": "Обязательная проверка здоровья (ОПР), профессиональный врач",
     "en": "Compulsory health check (CHC), occupational doctor"
   },
   {
     "code": "309",
     "lv": "OCT - acu tīklenes tomogrāfija",
-    "spec": 22,
+    "spec": 23,
     "ru": "ОСТ - томография сетчатки глаза",
     "en": "OCT - retinal tomography"
   },
@@ -2018,7 +2046,7 @@
   {
     "code": "03",
     "lv": "Oftalmologa (acu ārsta) konsultācija",
-    "spec": 101,
+    "spec": 99,
     "ru": "Консультация офтальмолога (глазного врача)",
     "en": "Consultation with an ophthalmologist (eye doctor)"
   },
@@ -2060,7 +2088,7 @@
   {
     "code": "444",
     "lv": "Onkoloģijas ginekologa konsultācija",
-    "spec": 3,
+    "spec": 5,
     "ru": "Консультация гинеколога в области онкологии",
     "en": "Gynaecological oncology consultation"
   },
@@ -2081,7 +2109,7 @@
   {
     "code": "133",
     "lv": "Operējoša ginekologa konsultācija",
-    "spec": 12,
+    "spec": 11,
     "ru": "Консультация оперирующего гинеколога",
     "en": "Consultation with an operating gynaecologist for a child"
   },
@@ -2102,7 +2130,7 @@
   {
     "code": "205",
     "lv": "Operējoša oftalmologa (acu ārsta) konsultācija",
-    "spec": 6,
+    "spec": 7,
     "ru": "Консультация оперирующего офтальмолога (глазного врача)",
     "en": "Consultation by an operating ophthalmologist (eye doctor)"
   },
@@ -2151,7 +2179,7 @@
   {
     "code": "136",
     "lv": "Operējoša traumatologa, ortopēda konsultācija",
-    "spec": 27,
+    "spec": 25,
     "ru": "Консультация оперирующего травматолога, ортопеда",
     "en": "Consultation with an operating traumatologist, orthopaedist"
   },
@@ -2214,7 +2242,7 @@
   {
     "code": "256",
     "lv": "Osteopāta konsultācija",
-    "spec": 2,
+    "spec": 3,
     "ru": "Консультация остеопата",
     "en": "Osteopath consultation"
   },
@@ -2228,7 +2256,7 @@
   {
     "code": "12",
     "lv": "Otolaringologa (LOR) konsultācija",
-    "spec": 81,
+    "spec": 80,
     "ru": "Консультация отоларинголога (ЛОР)",
     "en": "Consultation with an otolaryngologist"
   },
@@ -2263,7 +2291,7 @@
   {
     "code": "541",
     "lv": "Palīglīdzekļa remonts",
-    "spec": 1,
+    "spec": 2,
     "ru": "Ремонт вспомогательного средства",
     "en": "Repair of an assistive device"
   },
@@ -2312,7 +2340,7 @@
   {
     "code": "28",
     "lv": "Pediatra konsultācija",
-    "spec": 16,
+    "spec": 17,
     "ru": "Консультация педиатра",
     "en": "Consultation with a paediatrician"
   },
@@ -2326,7 +2354,7 @@
   {
     "code": "18",
     "lv": "Plastikas ķirurga konsultācija",
-    "spec": 4,
+    "spec": 5,
     "ru": "Консультация пластического хирурга",
     "en": "Consultation with a plastic surgeon"
   },
@@ -2347,7 +2375,7 @@
   {
     "code": "507",
     "lv": "Podologa konsultācija",
-    "spec": 17,
+    "spec": 16,
     "ru": "Консультация подолога",
     "en": "Podiatrist consultation"
   },
@@ -2417,21 +2445,21 @@
   {
     "code": "81",
     "lv": "Psihiatra konsultācija",
-    "spec": 18,
+    "spec": 16,
     "ru": "Консультация психиатра",
     "en": "Consultation with a psychiatrist"
   },
   {
     "code": "234",
     "lv": "Psihologa attālināta konsultācija",
-    "spec": 1,
+    "spec": 2,
     "ru": "Дистанционная консультация психолога",
     "en": "Psychologist remote consultation"
   },
   {
     "code": "27",
     "lv": "Psihologa konsultācija",
-    "spec": 19,
+    "spec": 20,
     "ru": "Консультация психолога",
     "en": "Psychologist's consultation"
   },
@@ -2466,7 +2494,7 @@
   {
     "code": "10",
     "lv": "Pulmonologa (Pneimonologa) konsultācija",
-    "spec": 37,
+    "spec": 38,
     "ru": "Консультация пульманолога",
     "en": "Consultation with a pulmonologist (pneumologist)"
   },
@@ -2494,21 +2522,21 @@
   {
     "code": "155",
     "lv": "Reimatologa konsultācija",
-    "spec": 25,
+    "spec": 24,
     "ru": "Консультация ревматолога",
     "en": "Consultation with a rheumatologist"
   },
   {
     "code": "313",
     "lv": "Rentgens bērnam (RTG, radioloģisks izmeklējums, nosūtījums obligāts)",
-    "spec": 24,
+    "spec": 25,
     "ru": "Рентген для ребенка (РТГ, радиологическое исследование, направление обязательно)",
     "en": "X-ray for a child (X-ray, radiological examination, referral obligatory)"
   },
   {
     "code": "186",
     "lv": "Rentgens (RTG, radioloģisks izmeklējums, nosūtījums obligāts)",
-    "spec": 47,
+    "spec": 50,
     "ru": "Рентген (РТГ, радиологическое исследование, направление обязательно)",
     "en": "X-ray (X-ray, radiological examination, referral required)"
   },
@@ -2613,7 +2641,7 @@
   {
     "code": "494",
     "lv": "Sporta masaža",
-    "spec": 4,
+    "spec": 5,
     "ru": "Спортивный массаж",
     "en": "Sports massage"
   },
@@ -2641,7 +2669,7 @@
   {
     "code": "229",
     "lv": "Tehniskā ortopēda konsultācija",
-    "spec": 9,
+    "spec": 10,
     "ru": "Консультация технического ортопеда",
     "en": "Consultation by a technical orthopaedist"
   },
@@ -2704,14 +2732,14 @@
   {
     "code": "24",
     "lv": "Traumatologa, ortopēda konsultācija",
-    "spec": 77,
+    "spec": 78,
     "ru": "Консультация травматолога, ортопеда",
     "en": "Consultation with a traumatologist, orthopaedist"
   },
   {
     "code": "107",
     "lv": "Traumatologa, ortopēda konsultācija bērnam",
-    "spec": 8,
+    "spec": 9,
     "ru": "Консультация травматолога, ортопеда для ребенка",
     "en": "Consultation with a traumatologist, orthopaedist for a child"
   },
@@ -2781,7 +2809,7 @@
   {
     "code": "213",
     "lv": "Ultrasonogrāfija mīkstiem audiem (virspusēji)",
-    "spec": 10,
+    "spec": 11,
     "ru": "Ультрасонография мягких тканей (поверхностно)",
     "en": "Ultrasonography of soft tissues (superficial)"
   },
@@ -2795,7 +2823,7 @@
   {
     "code": "88",
     "lv": "Ultrasonogrāfija (USG) krūtīm (piena dziedzeriem)",
-    "spec": 20,
+    "spec": 21,
     "ru": "Ультрасонография (УЗИ) груди (молочных желез)",
     "en": "Ultrasonography (USG) of the breasts (mammary glands)"
   },
@@ -2809,7 +2837,7 @@
   {
     "code": "101",
     "lv": "Ultrasonogrāfija (USG) mīkstajiem audiem un locītavām",
-    "spec": 51,
+    "spec": 52,
     "ru": "Ультрасонография (УЗИ) мягких тканей и суставов",
     "en": "Ultrasonography (USG) of soft tissues and joints"
   },
@@ -2823,7 +2851,7 @@
   {
     "code": "434",
     "lv": "Ultrasonogrāfija (USG) prostatai",
-    "spec": 14,
+    "spec": 15,
     "ru": "Ультрасонография (УЗИ) простаты",
     "en": "Ultrasonography (USG) of the prostate"
   },
@@ -2844,7 +2872,7 @@
   {
     "code": "86",
     "lv": "Ultrasonogrāfija (USG) vairogdziedzerim",
-    "spec": 73,
+    "spec": 74,
     "ru": "Ультрасонография (УЗИ) щитовидной железы",
     "en": "Ultrasonography (USG) of the thyroid gland"
   },
@@ -2858,14 +2886,14 @@
   {
     "code": "433",
     "lv": "Ultrasonogrāfija (USG) vēdera dobuma orgāniem (tai skaitā, nierēm, urīnpūslim, izņemot prostatu)",
-    "spec": 37,
+    "spec": 36,
     "ru": "Ультрасонография (УЗИ) органов брюшной полости (в том числе почек, мочевого пузыря, кроме простаты)",
     "en": "Ultrasonography (USG) of abdominal organs (including kidneys, bladder, excluding prostate)"
   },
   {
     "code": "32",
     "lv": "Ultrasonogrāfija (USG) vēdera dobuma orgāniem (tai skaitā, nierēm, urīnpūslim, prostatai)",
-    "spec": 63,
+    "spec": 68,
     "ru": "Ультрасонография (УЗИ) органов брюшной полости (в том числе почек, мочевого пузыря, простаты)",
     "en": "Ultrasonography (USG) of abdominal organs (including kidneys, bladder, prostate)"
   },
@@ -2879,14 +2907,14 @@
   {
     "code": "176",
     "lv": "Ultrasonogrāfija vēdera dobumam",
-    "spec": 26,
+    "spec": 29,
     "ru": "Ультрасонография брюшной полости",
     "en": "Ultrasonography of the abdominal cavity"
   },
   {
     "code": "13",
     "lv": "Urologa konsultācija",
-    "spec": 63,
+    "spec": 65,
     "ru": "Консультация уролога",
     "en": "Consultation with an urologist"
   },
@@ -2914,7 +2942,7 @@
   {
     "code": "423",
     "lv": "Uztura speciālista atkārtotā konsultācija",
-    "spec": 1,
+    "spec": 2,
     "ru": "Повторная консультация диетолога",
     "en": "Uztura speciālista atkārtotā konsultācija"
   },
@@ -2928,14 +2956,14 @@
   {
     "code": "487",
     "lv": "Uztura speciālista attālināta konsultācija vai izmeklējumu skaidrojums atkārtotam pacientam",
-    "spec": 1,
+    "spec": 2,
     "ru": "Дистанционная консультация диетолога или разъяснение результатов обследования для повторного пациента",
     "en": "Nutritionist remote consultation or examination explanation for a returning patient"
   },
   {
     "code": "20",
     "lv": "Uztura speciālista konsultācija",
-    "spec": 31,
+    "spec": 33,
     "ru": "Консультация специалиста по питанию",
     "en": "Consultation with a nutritionist"
   },
@@ -2970,7 +2998,7 @@
   {
     "code": "84",
     "lv": "Vakcinācija (potēšana) pret cilvēka papilomas (CPV / HPV) vīrusu",
-    "spec": 16,
+    "spec": 17,
     "ru": "Вакцинация (прививка) против вируса папилломы человека (CPV / HPV)",
     "en": "Vakcinācija (potēšana) pret cilvēka papilomas (CPV / HPV) vīrusu"
   },
@@ -2998,7 +3026,7 @@
   {
     "code": "306",
     "lv": "Vakcinācija (potēšana) pret pneimokoku",
-    "spec": 23,
+    "spec": 24,
     "ru": "Вакцинация (прививка) от пневмококковой инфекции",
     "en": "Pneumococcal vaccination (inoculation)"
   },
@@ -3019,7 +3047,7 @@
   {
     "code": "219",
     "lv": "Vecmātes konsultācija",
-    "spec": 6,
+    "spec": 7,
     "ru": "Консультация акушерки",
     "en": "Midwife consultation"
   },
@@ -3061,7 +3089,7 @@
   {
     "code": "290",
     "lv": "Vispārējā kermeņa masāža",
-    "spec": 12,
+    "spec": 13,
     "ru": "Общий масаж тела",
     "en": "General body massage"
   },
@@ -3096,28 +3124,28 @@
   {
     "code": "49",
     "lv": "Zobārsts",
-    "spec": 101,
+    "spec": 100,
     "ru": "Стоматолог",
     "en": "Dentist"
   },
   {
     "code": "244",
     "lv": "Zobu higiēna",
-    "spec": 51,
+    "spec": 52,
     "ru": "Гигиена зубов",
     "en": "Dental hygiene"
   },
   {
     "code": "396",
     "lv": "Zobu higiēna bērnam",
-    "spec": 20,
+    "spec": 21,
     "ru": "Зубная гигиена для ребенка",
     "en": "Dental hygiene for a child"
   },
   {
     "code": "245",
     "lv": "Zobu ķirurģija",
-    "spec": 6,
+    "spec": 7,
     "ru": "Зубная хирургия",
     "en": "Dental surgery"
   },
