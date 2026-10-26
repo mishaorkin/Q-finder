@@ -59,8 +59,12 @@
       }
     },
     "82": {
-      "insts": {},
-      "notified": {}
+      "insts": {
+        "Good Life Clinic": "12.11.2026"
+      },
+      "notified": {
+        "Good Life Clinic|12.11.2026": 1793010218.165293
+      }
     },
     "519": {
       "insts": {},
