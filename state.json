@@ -95,9 +95,7 @@
     },
     "32": {
       "insts": {
-        "Iļģuciems, RVC": "29.10.2026",
-        "Jelgavas pilsētas slimnīca": "30.04.2027",
-        "Rīgas veselības centrs (visas filiāles)": "29.10.2026"
+        "Jelgavas pilsētas slimnīca": "30.04.2027"
       },
       "notified": {
         "Jelgavas pilsētas slimnīca|28.04.2027": 1793198460.6663697,
@@ -108,10 +106,7 @@
       }
     },
     "176": {
-      "insts": {
-        "Iļģuciems, RVC": "29.10.2026",
-        "Rīgas veselības centrs (visas filiāles)": "29.10.2026"
-      },
+      "insts": {},
       "notified": {
         "Iļģuciems, RVC|29.10.2026": 1793257867.2141392,
         "Rīgas veselības centrs (visas filiāles)|29.10.2026": 1793257867.2141392
