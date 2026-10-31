@@ -127,13 +127,5 @@
       }
     }
   },
-  "pending": {
-    "382620443": [
-      {
-        "text": "🟢 ПОЯВИЛИСЬ МЕСТА!\n\nУслуга: Ultrasonogrāfija (USG) vēdera dobuma orgāniem (tai skaitā, nierēm, urīnpūslim, prostatai) (Ультрасонография (УЗИ) органов брюшной полости (в том числе почек, мочевого пузыря, простаты))\n\n🟢 Jelgavas pilsētas slimnīca — 07.05.2027 (Brīvības bulvāris 6, Jelgava)\n\nСкорее записывайтесь:\nhttps://eveselibaspunkts.lv/lv/Booking/Institutions?ServiceCode=32",
-        "code": "32",
-        "lang": "ru"
-      }
-    ]
-  }
+  "pending": {}
 }
