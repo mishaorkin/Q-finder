@@ -131,13 +131,5 @@
       }
     }
   },
-  "pending": {
-    "382620443": [
-      {
-        "text": "🟢 ПОЯВИЛИСЬ МЕСТА!\n\nУслуга: Ultrasonogrāfija (USG) vēdera dobuma orgāniem (tai skaitā, nierēm, urīnpūslim, prostatai) (Ультрасонография (УЗИ) органов брюшной полости (в том числе почек, мочевого пузыря, простаты))\n\n🟢 Aizkraukles klīnika — 03.11.2026 (Bērzu iela 5, Aizkraukle)\n\nСкорее записывайтесь:\nhttps://eveselibaspunkts.lv/lv/Booking/Institutions?ServiceCode=32",
-        "code": "32",
-        "lang": "ru"
-      }
-    ]
-  }
+  "pending": {}
 }
