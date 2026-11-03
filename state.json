@@ -132,10 +132,15 @@
       }
     },
     "176": {
-      "insts": {},
+      "insts": {
+        "Balvu slimnīca": "27.11.2026",
+        "Gulbenes slimnīca": "27.11.2026"
+      },
       "notified": {
         "Iļģuciems, RVC|29.10.2026": 1793257867.2141392,
-        "Rīgas veselības centrs (visas filiāles)|29.10.2026": 1793257867.2141392
+        "Rīgas veselības centrs (visas filiāles)|29.10.2026": 1793257867.2141392,
+        "Balvu slimnīca|27.11.2026": 1793695905.637541,
+        "Gulbenes slimnīca|27.11.2026": 1793695905.637541
       }
     }
   },
