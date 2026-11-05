@@ -95,7 +95,9 @@
     },
     "32": {
       "insts": {
-        "Jelgavas pilsētas slimnīca": "24.05.2027"
+        "Jelgavas pilsētas slimnīca": "24.05.2027",
+        "Pulss, VCA veselības klīnika": "19.11.2026",
+        "Veselības centru apvienība VCA (visas filiāles)": "19.11.2026"
       },
       "notified": {
         "Jelgavas pilsētas slimnīca|28.04.2027": 1793198460.6663697,
@@ -139,8 +141,8 @@
         "Veselības centru apvienība VCA (visas filiāles)|24.03.2027": 1793721136.0654888,
         "Pulss, VCA veselības klīnika|21.04.2027": 1793724743.001325,
         "Veselības centru apvienība VCA (visas filiāles)|21.04.2027": 1793724743.001325,
-        "Pulss, VCA veselības klīnika|19.11.2026": 1793730744.0636222,
-        "Veselības centru apvienība VCA (visas filiāles)|19.11.2026": 1793730744.0636222,
+        "Pulss, VCA veselības klīnika|19.11.2026": 1793862712.4752374,
+        "Veselības centru apvienība VCA (visas filiāles)|19.11.2026": 1793862712.4752374,
         "Pulss, VCA veselības klīnika|23.04.2027": 1793766719.303002,
         "Veselības centru apvienība VCA (visas filiāles)|23.04.2027": 1793766719.303002,
         "Iļģuciems, RVC|05.11.2026": 1793781124.5079455,
