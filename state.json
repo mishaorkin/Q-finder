@@ -95,7 +95,9 @@
     },
     "32": {
       "insts": {
-        "Jelgavas pilsētas slimnīca": "31.05.2027"
+        "Dinas, VCA veselības klīnika": "10.11.2026",
+        "Jelgavas pilsētas slimnīca": "31.05.2027",
+        "Veselības centru apvienība VCA (visas filiāles)": "10.11.2026"
       },
       "notified": {
         "Jelgavas pilsētas slimnīca|28.04.2027": 1793198460.6663697,
@@ -175,7 +177,9 @@
         "Jelgavas pilsētas slimnīca|13.11.2026": 1793905273.8400147,
         "Jelgavas pilsētas slimnīca|31.05.2027": 1793936469.9675245,
         "Olvi, VCA veselības klīnika|13.11.2026": 1793949082.3124108,
-        "Veselības centru apvienība VCA (visas filiāles)|13.11.2026": 1793949082.3124108
+        "Veselības centru apvienība VCA (visas filiāles)|13.11.2026": 1793949082.3124108,
+        "Dinas, VCA veselības klīnika|10.11.2026": 1793957495.916117,
+        "Veselības centru apvienība VCA (visas filiāles)|10.11.2026": 1793957495.916117
       }
     },
     "176": {
