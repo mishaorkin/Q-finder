@@ -95,7 +95,7 @@
     },
     "32": {
       "insts": {
-        "Jelgavas pilsētas slimnīca": "28.05.2027"
+        "Jelgavas pilsētas slimnīca": "31.05.2027"
       },
       "notified": {
         "Jelgavas pilsētas slimnīca|28.04.2027": 1793198460.6663697,
@@ -172,7 +172,8 @@
         "Veselības centru apvienība VCA (visas filiāles)|29.04.2027": 1793869873.3672056,
         "Jelgavas pilsētas slimnīca|27.05.2027": 1793878279.7412531,
         "Jelgavas pilsētas slimnīca|28.05.2027": 1793924267.2119815,
-        "Jelgavas pilsētas slimnīca|13.11.2026": 1793905273.8400147
+        "Jelgavas pilsētas slimnīca|13.11.2026": 1793905273.8400147,
+        "Jelgavas pilsētas slimnīca|31.05.2027": 1793936469.9675245
       }
     },
     "176": {
@@ -191,6 +192,11 @@
     "382620443": [
       {
         "text": "🟢 ПОЯВИЛИСЬ МЕСТА!\n\nУслуга: Ultrasonogrāfija (USG) vēdera dobuma orgāniem (tai skaitā, nierēm, urīnpūslim, prostatai) (Ультрасонография (УЗИ) органов брюшной полости (в том числе почек, мочевого пузыря, простаты))\n\n🟢 Jelgavas pilsētas slimnīca — 28.05.2027 (Brīvības bulvāris 6, Jelgava)\n\nСкорее записывайтесь:\nhttps://eveselibaspunkts.lv/lv/Booking/Institutions?ServiceCode=32",
+        "code": "32",
+        "lang": "ru"
+      },
+      {
+        "text": "🟢 ПОЯВИЛИСЬ МЕСТА!\n\nУслуга: Ultrasonogrāfija (USG) vēdera dobuma orgāniem (tai skaitā, nierēm, urīnpūslim, prostatai) (Ультрасонография (УЗИ) органов брюшной полости (в том числе почек, мочевого пузыря, простаты))\n\n🟢 Jelgavas pilsētas slimnīca — 31.05.2027 (Brīvības bulvāris 6, Jelgava)\n\nСкорее записывайтесь:\nhttps://eveselibaspunkts.lv/lv/Booking/Institutions?ServiceCode=32",
         "code": "32",
         "lang": "ru"
       }
