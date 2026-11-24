@@ -184,7 +184,10 @@
       }
     },
     "176": {
-      "insts": {},
+      "insts": {
+        "Iļģuciems, RVC": "26.11.2026",
+        "Rīgas veselības centrs (visas filiāles)": "26.11.2026"
+      },
       "notified": {
         "Iļģuciems, RVC|29.10.2026": 1793257867.2141392,
         "Rīgas veselības centrs (visas filiāles)|29.10.2026": 1793257867.2141392,
@@ -196,7 +199,9 @@
         "Rīgas veselības centrs (visas filiāles)|13.11.2026": 1794390690.7890341,
         "Aizkraukles klīnika|09.12.2026": 1794918666.7779026,
         "Imanta, RVC|24.11.2026": 1794920452.9144108,
-        "Rīgas veselības centrs (visas filiāles)|24.11.2026": 1794920452.9144108
+        "Rīgas veselības centrs (visas filiāles)|24.11.2026": 1794920452.9144108,
+        "Iļģuciems, RVC|26.11.2026": 1795512066.7047343,
+        "Rīgas veselības centrs (visas filiāles)|26.11.2026": 1795512066.7047343
       }
     }
   },
