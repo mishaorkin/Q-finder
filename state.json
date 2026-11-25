@@ -35,8 +35,12 @@
       }
     },
     "394": {
-      "insts": {},
-      "notified": {}
+      "insts": {
+        "Daugavpils reģionālā slimnīca": "01.12.2026"
+      },
+      "notified": {
+        "Daugavpils reģionālā slimnīca|01.12.2026": 1795594935.9534078
+      }
     },
     "180": {
       "insts": {
